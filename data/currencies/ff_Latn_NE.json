@@ -1,0 +1,3965 @@
+{
+    "language": "ff_Latn_NE",
+    "currencies": {
+        "AED": {
+            "major_unit": "Dirham Emiraati Araab Dentu\u0257i",
+            "major_unit_symbol": "AED",
+            "major_unit_abbreviation": "AED",
+            "minor_unit": "Fils",
+            "minor_unit_symbol": "mns_AED",
+            "minor_unit_abbreviation": "Fils",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dirham"
+                },
+                "minor_unit": {
+                    "0-1": "Fils"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "AFN": {
+            "major_unit": "Afghan Afghani",
+            "major_unit_symbol": "AFN",
+            "major_unit_abbreviation": "AFN",
+            "minor_unit": "Pul",
+            "minor_unit_symbol": "mns_AFN",
+            "minor_unit_abbreviation": "Pul",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Afghani"
+                },
+                "minor_unit": {
+                    "0-1": "Pul"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "ALL": {
+            "major_unit": "Albanian Lek",
+            "major_unit_symbol": "ALL",
+            "major_unit_abbreviation": "ALL",
+            "minor_unit": "Qindarka",
+            "minor_unit_symbol": "mns_ALL",
+            "minor_unit_abbreviation": "Qindarka",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Lek"
+                },
+                "minor_unit": {
+                    "0-1": "Qindarka"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "AMD": {
+            "major_unit": "Armenian Dram",
+            "major_unit_symbol": "AMD",
+            "major_unit_abbreviation": "AMD",
+            "minor_unit": "Luma",
+            "minor_unit_symbol": "mns_AMD",
+            "minor_unit_abbreviation": "Luma",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dram"
+                },
+                "minor_unit": {
+                    "0-1": "Luma"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "ANG": {
+            "major_unit": "Netherlands Antillean Guilder",
+            "major_unit_symbol": "ANG",
+            "major_unit_abbreviation": "ANG",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_ANG",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Guilder"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "AOA": {
+            "major_unit": "Kwansaa Anngolaa",
+            "major_unit_symbol": "AOA",
+            "major_unit_abbreviation": "AOA",
+            "minor_unit": "Centimos",
+            "minor_unit_symbol": "mns_AOA",
+            "minor_unit_abbreviation": "Centimo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Kwanza"
+                },
+                "minor_unit": {
+                    "0-1": "Centimo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "ARS": {
+            "major_unit": "Argentine Peso",
+            "major_unit_symbol": "ARS",
+            "major_unit_abbreviation": "ARS",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_ARS",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "AUD": {
+            "major_unit": "Dolaar Ostaraalii",
+            "major_unit_symbol": "A$",
+            "major_unit_abbreviation": "AUD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_AUD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "AWG": {
+            "major_unit": "Aruban Florin",
+            "major_unit_symbol": "AWG",
+            "major_unit_abbreviation": "AWG",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_AWG",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Florin"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "AZN": {
+            "major_unit": "Azerbaijani Manat",
+            "major_unit_symbol": "AZN",
+            "major_unit_abbreviation": "AZN",
+            "minor_unit": "Qapik",
+            "minor_unit_symbol": "mns_AZN",
+            "minor_unit_abbreviation": "Qapik",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Manat"
+                },
+                "minor_unit": {
+                    "0-1": "Qapik"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BAM": {
+            "major_unit": "Bosnia-Herzegovina Convertible Mark",
+            "major_unit_symbol": "BAM",
+            "major_unit_abbreviation": "BAM",
+            "minor_unit": "Fening",
+            "minor_unit_symbol": "mns_BAM",
+            "minor_unit_abbreviation": "Fening",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Convertible Mark"
+                },
+                "minor_unit": {
+                    "0-1": "Fening"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BBD": {
+            "major_unit": "Barbadian Dollar",
+            "major_unit_symbol": "BBD",
+            "major_unit_abbreviation": "BBD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_BBD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BDT": {
+            "major_unit": "Bangladeshi Taka",
+            "major_unit_symbol": "BDT",
+            "major_unit_abbreviation": "BDT",
+            "minor_unit": "Poisha",
+            "minor_unit_symbol": "mns_BDT",
+            "minor_unit_abbreviation": "Poisha",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Taka"
+                },
+                "minor_unit": {
+                    "0-1": "Poisha"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BGN": {
+            "major_unit": "Bulgarian Lev",
+            "major_unit_symbol": "BGN",
+            "major_unit_abbreviation": "BGN",
+            "minor_unit": "Stotinki",
+            "minor_unit_symbol": "mns_BGN",
+            "minor_unit_abbreviation": "Stotinka",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Lev"
+                },
+                "minor_unit": {
+                    "0-1": "Stotinka"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BHD": {
+            "major_unit": "Dinaar Bahrayn",
+            "major_unit_symbol": "BHD",
+            "major_unit_abbreviation": "BHD",
+            "minor_unit": "Fils",
+            "minor_unit_symbol": "mns_BHD",
+            "minor_unit_abbreviation": "Fils",
+            "decimals": 3,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dinar"
+                },
+                "minor_unit": {
+                    "0-1": "Fils"
+                }
+            },
+            "cash": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            }
+        },
+        "BIF": {
+            "major_unit": "Mbuu\u0257u Burunndi",
+            "major_unit_symbol": "BIF",
+            "major_unit_abbreviation": "BIF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_BIF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "BMD": {
+            "major_unit": "Bermudan Dollar",
+            "major_unit_symbol": "BMD",
+            "major_unit_abbreviation": "BMD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_BMD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BND": {
+            "major_unit": "Brunei Dollar",
+            "major_unit_symbol": "BND",
+            "major_unit_abbreviation": "BND",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_BND",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BOB": {
+            "major_unit": "Bolivian Boliviano",
+            "major_unit_symbol": "BOB",
+            "major_unit_abbreviation": "BOB",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_BOB",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Boliviano"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BRL": {
+            "major_unit": "Brazilian Real",
+            "major_unit_symbol": "R$",
+            "major_unit_abbreviation": "BRL",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_BRL",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Real"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BSD": {
+            "major_unit": "Bahamian Dollar",
+            "major_unit_symbol": "BSD",
+            "major_unit_abbreviation": "BSD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_BSD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BTN": {
+            "major_unit": "Bhutanese Ngultrum",
+            "major_unit_symbol": "BTN",
+            "major_unit_abbreviation": "BTN",
+            "minor_unit": "Chetrums",
+            "minor_unit_symbol": "mns_BTN",
+            "minor_unit_abbreviation": "Chetrum",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Ngultrum"
+                },
+                "minor_unit": {
+                    "0-1": "Chetrum"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BWP": {
+            "major_unit": "Pulaa Botwanaa",
+            "major_unit_symbol": "BWP",
+            "major_unit_abbreviation": "BWP",
+            "minor_unit": "Thebe",
+            "minor_unit_symbol": "mns_BWP",
+            "minor_unit_abbreviation": "Thebe",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pula"
+                },
+                "minor_unit": {
+                    "0-1": "Thebe"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BYN": {
+            "major_unit": "Belarusian Ruble",
+            "major_unit_symbol": "BYN",
+            "major_unit_abbreviation": "BYN",
+            "minor_unit": "Kapiejka",
+            "minor_unit_symbol": "mns_BYN",
+            "minor_unit_abbreviation": "Kapiejka",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Ruble"
+                },
+                "minor_unit": {
+                    "0-1": "Kapiejka"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "BZD": {
+            "major_unit": "Belize Dollar",
+            "major_unit_symbol": "BZD",
+            "major_unit_abbreviation": "BZD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_BZD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CAD": {
+            "major_unit": "Dolaar Kandaaa",
+            "major_unit_symbol": "CA$",
+            "major_unit_abbreviation": "CAD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_CAD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 5
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CDF": {
+            "major_unit": "Faraa Konngo",
+            "major_unit_symbol": "CDF",
+            "major_unit_abbreviation": "CDF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_CDF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CHF": {
+            "major_unit": "Faraa Suwiis",
+            "major_unit_symbol": "CHF",
+            "major_unit_abbreviation": "CHF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_CHF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 5
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CLP": {
+            "major_unit": "Chilean Peso",
+            "major_unit_symbol": "CLP",
+            "major_unit_abbreviation": "CLP",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_CLP",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "CNY": {
+            "major_unit": "Yuam Siin",
+            "major_unit_symbol": "CN\u00a5",
+            "major_unit_abbreviation": "CNY",
+            "minor_unit": "Fen",
+            "minor_unit_symbol": "mns_CNY",
+            "minor_unit_abbreviation": "Fen",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Yuan"
+                },
+                "minor_unit": {
+                    "0-1": "Fen"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "COP": {
+            "major_unit": "Colombian Peso",
+            "major_unit_symbol": "COP",
+            "major_unit_abbreviation": "COP",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_COP",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CRC": {
+            "major_unit": "Costa Rican Col\u00f3n",
+            "major_unit_symbol": "CRC",
+            "major_unit_abbreviation": "CRC",
+            "minor_unit": "Centimos",
+            "minor_unit_symbol": "mns_CRC",
+            "minor_unit_abbreviation": "Centimo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Col\u00f3n"
+                },
+                "minor_unit": {
+                    "0-1": "Centimo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CUC": {
+            "major_unit": "Cuban Convertible Peso",
+            "major_unit_symbol": "CUC",
+            "major_unit_abbreviation": "CUC",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_CUC",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CUP": {
+            "major_unit": "Cuban Peso",
+            "major_unit_symbol": "CUP",
+            "major_unit_abbreviation": "CUP",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_CUP",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CVE": {
+            "major_unit": "Eskudoo Kap Weer",
+            "major_unit_symbol": "CVE",
+            "major_unit_abbreviation": "CVE",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_CVE",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Escudo"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "CZK": {
+            "major_unit": "Czech Koruna",
+            "major_unit_symbol": "CZK",
+            "major_unit_abbreviation": "CZK",
+            "minor_unit": "Hal\u00e9\u0159",
+            "minor_unit_symbol": "mns_CZK",
+            "minor_unit_abbreviation": "Hal\u00e9\u0159",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Koruna"
+                },
+                "minor_unit": {
+                    "0-1": "Hal\u00e9\u0159"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "DJF": {
+            "major_unit": "Faraa Jibutii",
+            "major_unit_symbol": "DJF",
+            "major_unit_abbreviation": "DJF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_DJF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "DKK": {
+            "major_unit": "Danish Krone",
+            "major_unit_symbol": "DKK",
+            "major_unit_abbreviation": "DKK",
+            "minor_unit": "\u00d8re",
+            "minor_unit_symbol": "mns_DKK",
+            "minor_unit_abbreviation": "\u00d8re",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Krone"
+                },
+                "minor_unit": {
+                    "0-1": "\u00d8re"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 50
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "DOP": {
+            "major_unit": "Dominican Peso",
+            "major_unit_symbol": "DOP",
+            "major_unit_abbreviation": "DOP",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_DOP",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "DZD": {
+            "major_unit": "Dinaar Alaseri",
+            "major_unit_symbol": "DZD",
+            "major_unit_abbreviation": "DZD",
+            "minor_unit": "Santeems",
+            "minor_unit_symbol": "mns_DZD",
+            "minor_unit_abbreviation": "Santeem",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dinar"
+                },
+                "minor_unit": {
+                    "0-1": "Santeem"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "EGP": {
+            "major_unit": "Liibar Ejipt",
+            "major_unit_symbol": "EGP",
+            "major_unit_abbreviation": "EGP",
+            "minor_unit": "Qirsh",
+            "minor_unit_symbol": "mns_EGP",
+            "minor_unit_abbreviation": "Qirsh",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Qirsh"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "ERN": {
+            "major_unit": "Nafka Eriteree",
+            "major_unit_symbol": "ERN",
+            "major_unit_abbreviation": "ERN",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_ERN",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Nakfa"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "ETB": {
+            "major_unit": "Biir Ecoppi",
+            "major_unit_symbol": "ETB",
+            "major_unit_abbreviation": "ETB",
+            "minor_unit": "Santim",
+            "minor_unit_symbol": "mns_ETB",
+            "minor_unit_abbreviation": "Santim",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Birr"
+                },
+                "minor_unit": {
+                    "0-1": "Santim"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "EUR": {
+            "major_unit": "Oroo",
+            "major_unit_symbol": "\u20ac",
+            "major_unit_abbreviation": "EUR",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_EUR",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Euro"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "FJD": {
+            "major_unit": "Fijian Dollar",
+            "major_unit_symbol": "FJD",
+            "major_unit_abbreviation": "FJD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_FJD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "FKP": {
+            "major_unit": "Falkland Islands Pound",
+            "major_unit_symbol": "FKP",
+            "major_unit_abbreviation": "FKP",
+            "minor_unit": "Pence",
+            "minor_unit_symbol": "mns_FKP",
+            "minor_unit_abbreviation": "Penny",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Penny"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "GBP": {
+            "major_unit": "Liibar Sterling",
+            "major_unit_symbol": "\u00a3",
+            "major_unit_abbreviation": "GBP",
+            "minor_unit": "Pence",
+            "minor_unit_symbol": "mns_GBP",
+            "minor_unit_abbreviation": "Penny",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Penny"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "GEL": {
+            "major_unit": "Georgian Lari",
+            "major_unit_symbol": "GEL",
+            "major_unit_abbreviation": "GEL",
+            "minor_unit": "Tetri",
+            "minor_unit_symbol": "mns_GEL",
+            "minor_unit_abbreviation": "Tetri",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Lari"
+                },
+                "minor_unit": {
+                    "0-1": "Tetri"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "GHS": {
+            "major_unit": "Ghanaian Cedi",
+            "major_unit_symbol": "GHS",
+            "major_unit_abbreviation": "GHS",
+            "minor_unit": "Pesewas",
+            "minor_unit_symbol": "mns_GHS",
+            "minor_unit_abbreviation": "Pesewa",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Cedi"
+                },
+                "minor_unit": {
+                    "0-1": "Pesewa"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "GIP": {
+            "major_unit": "Gibraltar Pound",
+            "major_unit_symbol": "GIP",
+            "major_unit_abbreviation": "GIP",
+            "minor_unit": "Pence",
+            "minor_unit_symbol": "mns_GIP",
+            "minor_unit_abbreviation": "Penny",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Penny"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "GMD": {
+            "major_unit": "Dalasi Gammbi",
+            "major_unit_symbol": "GMD",
+            "major_unit_abbreviation": "GMD",
+            "minor_unit": "Bututs",
+            "minor_unit_symbol": "mns_GMD",
+            "minor_unit_abbreviation": "Butut",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dalasi"
+                },
+                "minor_unit": {
+                    "0-1": "Butut"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "GNF": {
+            "major_unit": "Guinean Franc",
+            "major_unit_symbol": "GNF",
+            "major_unit_abbreviation": "GNF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_GNF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "GTQ": {
+            "major_unit": "Guatemalan Quetzal",
+            "major_unit_symbol": "GTQ",
+            "major_unit_abbreviation": "GTQ",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_GTQ",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Quetzal"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "GYD": {
+            "major_unit": "Guyanaese Dollar",
+            "major_unit_symbol": "GYD",
+            "major_unit_abbreviation": "GYD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_GYD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "HKD": {
+            "major_unit": "Hong Kong Dollar",
+            "major_unit_symbol": "HK$",
+            "major_unit_abbreviation": "HKD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_HKD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "HNL": {
+            "major_unit": "Honduran Lempira",
+            "major_unit_symbol": "HNL",
+            "major_unit_abbreviation": "HNL",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_HNL",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Lempira"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "HRK": {
+            "major_unit": "Croatian Kuna",
+            "major_unit_symbol": "HRK",
+            "major_unit_abbreviation": "HRK",
+            "minor_unit": "Lipa",
+            "minor_unit_symbol": "mns_HRK",
+            "minor_unit_abbreviation": "Lipa",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Kuna"
+                },
+                "minor_unit": {
+                    "0-1": "Lipa"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "HTG": {
+            "major_unit": "Haitian Gourde",
+            "major_unit_symbol": "HTG",
+            "major_unit_abbreviation": "HTG",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_HTG",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Gourde"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "HUF": {
+            "major_unit": "Hungarian Forint",
+            "major_unit_symbol": "HUF",
+            "major_unit_abbreviation": "HUF",
+            "minor_unit": "fill\u00e9r",
+            "minor_unit_symbol": "mns_HUF",
+            "minor_unit_abbreviation": "fill\u00e9r",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Forint"
+                },
+                "minor_unit": {
+                    "0-1": "fill\u00e9r"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "IDR": {
+            "major_unit": "Indonesian Rupiah",
+            "major_unit_symbol": "IDR",
+            "major_unit_abbreviation": "IDR",
+            "minor_unit": "Sen",
+            "minor_unit_symbol": "mns_IDR",
+            "minor_unit_abbreviation": "Sen",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rupiah"
+                },
+                "minor_unit": {
+                    "0-1": "Sen"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "ILS": {
+            "major_unit": "Israeli New Shekel",
+            "major_unit_symbol": "\u20aa",
+            "major_unit_abbreviation": "ILS",
+            "minor_unit": "Agoras",
+            "minor_unit_symbol": "mns_ILS",
+            "minor_unit_abbreviation": "Agora",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Shekel"
+                },
+                "minor_unit": {
+                    "0-1": "Agora"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "INR": {
+            "major_unit": "Rupii Enndo",
+            "major_unit_symbol": "\u20b9",
+            "major_unit_abbreviation": "INR",
+            "minor_unit": "Paise",
+            "minor_unit_symbol": "mns_INR",
+            "minor_unit_abbreviation": "Paisa",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rupee"
+                },
+                "minor_unit": {
+                    "0-1": "Paisa"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "IQD": {
+            "major_unit": "Iraqi Dinar",
+            "major_unit_symbol": "IQD",
+            "major_unit_abbreviation": "IQD",
+            "minor_unit": "Fils",
+            "minor_unit_symbol": "mns_IQD",
+            "minor_unit_abbreviation": "Fils",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dinar"
+                },
+                "minor_unit": {
+                    "0-1": "Fils"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "IRR": {
+            "major_unit": "Iranian Rial",
+            "major_unit_symbol": "IRR",
+            "major_unit_abbreviation": "IRR",
+            "minor_unit": "Dinars",
+            "minor_unit_symbol": "mns_IRR",
+            "minor_unit_abbreviation": "Dinar",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rial"
+                },
+                "minor_unit": {
+                    "0-1": "Dinar"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "ISK": {
+            "major_unit": "Icelandic Kr\u00f3na",
+            "major_unit_symbol": "ISK",
+            "major_unit_abbreviation": "ISK",
+            "minor_unit": "Aurar",
+            "minor_unit_symbol": "mns_ISK",
+            "minor_unit_abbreviation": "Aurar",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Krona"
+                },
+                "minor_unit": {
+                    "0-1": "Aurar"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "JMD": {
+            "major_unit": "Jamaican Dollar",
+            "major_unit_symbol": "JMD",
+            "major_unit_abbreviation": "JMD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_JMD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "JOD": {
+            "major_unit": "Jordanian Dinar",
+            "major_unit_symbol": "JOD",
+            "major_unit_abbreviation": "JOD",
+            "minor_unit": "Fils",
+            "minor_unit_symbol": "mns_JOD",
+            "minor_unit_abbreviation": "Fils",
+            "decimals": 3,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dinar"
+                },
+                "minor_unit": {
+                    "0-1": "Fils"
+                }
+            },
+            "cash": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            }
+        },
+        "JPY": {
+            "major_unit": "Yen Sapoo",
+            "major_unit_symbol": "JP\u00a5",
+            "major_unit_abbreviation": "JPY",
+            "minor_unit": "Sen",
+            "minor_unit_symbol": "mns_JPY",
+            "minor_unit_abbreviation": "Sen",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Yen"
+                },
+                "minor_unit": {
+                    "0-1": "Sen"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "KES": {
+            "major_unit": "Siling Ke\u00f1aa",
+            "major_unit_symbol": "KES",
+            "major_unit_abbreviation": "KES",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_KES",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Shilling"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "KGS": {
+            "major_unit": "Kyrgystani Som",
+            "major_unit_symbol": "KGS",
+            "major_unit_abbreviation": "KGS",
+            "minor_unit": "Tyiyn",
+            "minor_unit_symbol": "mns_KGS",
+            "minor_unit_abbreviation": "Tyiyn",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Som"
+                },
+                "minor_unit": {
+                    "0-1": "Tyiyn"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "KHR": {
+            "major_unit": "Cambodian Riel",
+            "major_unit_symbol": "KHR",
+            "major_unit_abbreviation": "KHR",
+            "minor_unit": "Sen",
+            "minor_unit_symbol": "mns_KHR",
+            "minor_unit_abbreviation": "Sen",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Riel"
+                },
+                "minor_unit": {
+                    "0-1": "Sen"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "KMF": {
+            "major_unit": "Faraa Komoor",
+            "major_unit_symbol": "KMF",
+            "major_unit_abbreviation": "KMF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_KMF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "KPW": {
+            "major_unit": "North Korean Won",
+            "major_unit_symbol": "KPW",
+            "major_unit_abbreviation": "KPW",
+            "minor_unit": "Chon",
+            "minor_unit_symbol": "mns_KPW",
+            "minor_unit_abbreviation": "Chon",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Won"
+                },
+                "minor_unit": {
+                    "0-1": "Chon"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "KRW": {
+            "major_unit": "South Korean Won",
+            "major_unit_symbol": "\u20a9",
+            "major_unit_abbreviation": "KRW",
+            "minor_unit": "Jeon",
+            "minor_unit_symbol": "mns_KRW",
+            "minor_unit_abbreviation": "Jeon",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Won"
+                },
+                "minor_unit": {
+                    "0-1": "Jeon"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "KWD": {
+            "major_unit": "Kuwaiti Dinar",
+            "major_unit_symbol": "KWD",
+            "major_unit_abbreviation": "KWD",
+            "minor_unit": "Fils",
+            "minor_unit_symbol": "mns_KWD",
+            "minor_unit_abbreviation": "Fils",
+            "decimals": 3,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dinar"
+                },
+                "minor_unit": {
+                    "0-1": "Fils"
+                }
+            },
+            "cash": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            }
+        },
+        "KYD": {
+            "major_unit": "Cayman Islands Dollar",
+            "major_unit_symbol": "KYD",
+            "major_unit_abbreviation": "KYD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_KYD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "KZT": {
+            "major_unit": "Kazakhstani Tenge",
+            "major_unit_symbol": "KZT",
+            "major_unit_abbreviation": "KZT",
+            "minor_unit": "T\u0131yn",
+            "minor_unit_symbol": "mns_KZT",
+            "minor_unit_abbreviation": "T\u0131yn",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Tenge"
+                },
+                "minor_unit": {
+                    "0-1": "T\u0131yn"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "LAK": {
+            "major_unit": "Laotian Kip",
+            "major_unit_symbol": "LAK",
+            "major_unit_abbreviation": "LAK",
+            "minor_unit": "Att",
+            "minor_unit_symbol": "mns_LAK",
+            "minor_unit_abbreviation": "Att",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Kip"
+                },
+                "minor_unit": {
+                    "0-1": "Att"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "LBP": {
+            "major_unit": "Lebanese Pound",
+            "major_unit_symbol": "LBP",
+            "major_unit_abbreviation": "LBP",
+            "minor_unit": "Qirsh",
+            "minor_unit_symbol": "mns_LBP",
+            "minor_unit_abbreviation": "Qirsh",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Qirsh"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "LKR": {
+            "major_unit": "Sri Lankan Rupee",
+            "major_unit_symbol": "LKR",
+            "major_unit_abbreviation": "LKR",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_LKR",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rupee"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "LRD": {
+            "major_unit": "Dolaar Liberiyaa",
+            "major_unit_symbol": "LRD",
+            "major_unit_abbreviation": "LRD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_LRD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "LSL": {
+            "major_unit": "Loti Lesotoo",
+            "major_unit_symbol": "LSL",
+            "major_unit_abbreviation": "LSL",
+            "minor_unit": "Lisente",
+            "minor_unit_symbol": "mns_LSL",
+            "minor_unit_abbreviation": "Sente",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Loti"
+                },
+                "minor_unit": {
+                    "0-1": "Sente"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "LYD": {
+            "major_unit": "Dinaar Libi",
+            "major_unit_symbol": "LYD",
+            "major_unit_abbreviation": "LYD",
+            "minor_unit": "Dirhams",
+            "minor_unit_symbol": "mns_LYD",
+            "minor_unit_abbreviation": "Dirham",
+            "decimals": 3,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dinar"
+                },
+                "minor_unit": {
+                    "0-1": "Dirham"
+                }
+            },
+            "cash": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            }
+        },
+        "MAD": {
+            "major_unit": "Diraham Maruk",
+            "major_unit_symbol": "MAD",
+            "major_unit_abbreviation": "MAD",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_MAD",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dirham"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MDL": {
+            "major_unit": "Moldovan Leu",
+            "major_unit_symbol": "MDL",
+            "major_unit_abbreviation": "MDL",
+            "minor_unit": "Bani",
+            "minor_unit_symbol": "mns_MDL",
+            "minor_unit_abbreviation": "Ban",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Leu"
+                },
+                "minor_unit": {
+                    "0-1": "Ban"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MGA": {
+            "major_unit": "Ariyari Madagaskaar",
+            "major_unit_symbol": "MGA",
+            "major_unit_abbreviation": "MGA",
+            "minor_unit": "Iraimbilanja",
+            "minor_unit_symbol": "mns_MGA",
+            "minor_unit_abbreviation": "Iraimbilanja",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Ariary"
+                },
+                "minor_unit": {
+                    "0-1": "Iraimbilanja"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "MKD": {
+            "major_unit": "Macedonian Denar",
+            "major_unit_symbol": "MKD",
+            "major_unit_abbreviation": "MKD",
+            "minor_unit": "Deni",
+            "minor_unit_symbol": "mns_MKD",
+            "minor_unit_abbreviation": "Deni",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Denar"
+                },
+                "minor_unit": {
+                    "0-1": "Deni"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MMK": {
+            "major_unit": "Myanmar Kyat",
+            "major_unit_symbol": "MMK",
+            "major_unit_abbreviation": "MMK",
+            "minor_unit": "Pya",
+            "minor_unit_symbol": "mns_MMK",
+            "minor_unit_abbreviation": "Pya",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Kyat"
+                },
+                "minor_unit": {
+                    "0-1": "Pya"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "MNT": {
+            "major_unit": "Mongolian Tugrik",
+            "major_unit_symbol": "MNT",
+            "major_unit_abbreviation": "MNT",
+            "minor_unit": "m\u00f6ng\u00f6",
+            "minor_unit_symbol": "mns_MNT",
+            "minor_unit_abbreviation": "m\u00f6ng\u00f6",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "T\u00f6gr\u00f6g"
+                },
+                "minor_unit": {
+                    "0-1": "m\u00f6ng\u00f6"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MOP": {
+            "major_unit": "Macanese Pataca",
+            "major_unit_symbol": "MOP",
+            "major_unit_abbreviation": "MOP",
+            "minor_unit": "Avos",
+            "minor_unit_symbol": "mns_MOP",
+            "minor_unit_abbreviation": "Avo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pataca"
+                },
+                "minor_unit": {
+                    "0-1": "Avo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MRU": {
+            "major_unit": "Ugiyya Muritani",
+            "major_unit_symbol": "MRU",
+            "major_unit_abbreviation": "MRU",
+            "minor_unit": "Khoums",
+            "minor_unit_symbol": "mns_MRU",
+            "minor_unit_abbreviation": "Khoums",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Ouguiya"
+                },
+                "minor_unit": {
+                    "0-1": "Khoums"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MUR": {
+            "major_unit": "Rupii Moriis",
+            "major_unit_symbol": "MUR",
+            "major_unit_abbreviation": "MUR",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_MUR",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rupee"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MVR": {
+            "major_unit": "Maldivian Rufiyaa",
+            "major_unit_symbol": "MVR",
+            "major_unit_abbreviation": "MVR",
+            "minor_unit": "laari",
+            "minor_unit_symbol": "mns_MVR",
+            "minor_unit_abbreviation": "laari",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rufiyaa"
+                },
+                "minor_unit": {
+                    "0-1": "laari"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MWK": {
+            "major_unit": "Kuwacca Malaawi",
+            "major_unit_symbol": "MWK",
+            "major_unit_abbreviation": "MWK",
+            "minor_unit": "Tambala",
+            "minor_unit_symbol": "mns_MWK",
+            "minor_unit_abbreviation": "Tambala",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Kwacha"
+                },
+                "minor_unit": {
+                    "0-1": "Tambala"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MXN": {
+            "major_unit": "Mexican Peso",
+            "major_unit_symbol": "MX$",
+            "major_unit_abbreviation": "MXN",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_MXN",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MYR": {
+            "major_unit": "Malaysian Ringgit",
+            "major_unit_symbol": "MYR",
+            "major_unit_abbreviation": "MYR",
+            "minor_unit": "Sen",
+            "minor_unit_symbol": "mns_MYR",
+            "minor_unit_abbreviation": "Sen",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Ringgit"
+                },
+                "minor_unit": {
+                    "0-1": "Sen"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "MZN": {
+            "major_unit": "Mozambican Metical",
+            "major_unit_symbol": "MZN",
+            "major_unit_abbreviation": "MZN",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_MZN",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Metical"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "NAD": {
+            "major_unit": "Dolaar Namibii",
+            "major_unit_symbol": "NAD",
+            "major_unit_abbreviation": "NAD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_NAD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "NGN": {
+            "major_unit": "Nayraa Nijeriyaa",
+            "major_unit_symbol": "NGN",
+            "major_unit_abbreviation": "NGN",
+            "minor_unit": "Kobo",
+            "minor_unit_symbol": "mns_NGN",
+            "minor_unit_abbreviation": "Kobo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Naira"
+                },
+                "minor_unit": {
+                    "0-1": "Kobo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "NIO": {
+            "major_unit": "Nicaraguan C\u00f3rdoba",
+            "major_unit_symbol": "NIO",
+            "major_unit_abbreviation": "NIO",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_NIO",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "C\u00f3rdoba Oro"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "NOK": {
+            "major_unit": "Norwegian Krone",
+            "major_unit_symbol": "NOK",
+            "major_unit_abbreviation": "NOK",
+            "minor_unit": "\u00f8re",
+            "minor_unit_symbol": "mns_NOK",
+            "minor_unit_abbreviation": "\u00f8re",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Krone"
+                },
+                "minor_unit": {
+                    "0-1": "\u00f8re"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "NPR": {
+            "major_unit": "Nepalese Rupee",
+            "major_unit_symbol": "NPR",
+            "major_unit_abbreviation": "NPR",
+            "minor_unit": "Paise",
+            "minor_unit_symbol": "mns_NPR",
+            "minor_unit_abbreviation": "Paisa",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rupee"
+                },
+                "minor_unit": {
+                    "0-1": "Paisa"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "NZD": {
+            "major_unit": "New Zealand Dollar",
+            "major_unit_symbol": "NZ$",
+            "major_unit_abbreviation": "NZD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_NZD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "OMR": {
+            "major_unit": "Omani Rial",
+            "major_unit_symbol": "OMR",
+            "major_unit_abbreviation": "OMR",
+            "minor_unit": "Baisa",
+            "minor_unit_symbol": "mns_OMR",
+            "minor_unit_abbreviation": "Baisa",
+            "decimals": 3,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rial"
+                },
+                "minor_unit": {
+                    "0-1": "Baisa"
+                }
+            },
+            "cash": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            }
+        },
+        "PAB": {
+            "major_unit": "Panamanian Balboa",
+            "major_unit_symbol": "PAB",
+            "major_unit_abbreviation": "PAB",
+            "minor_unit": "Cent\u00e9simos",
+            "minor_unit_symbol": "mns_PAB",
+            "minor_unit_abbreviation": "Cent\u00e9simo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Balboa"
+                },
+                "minor_unit": {
+                    "0-1": "Cent\u00e9simo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "PEN": {
+            "major_unit": "Peruvian Sol",
+            "major_unit_symbol": "PEN",
+            "major_unit_abbreviation": "PEN",
+            "minor_unit": "C\u00e9ntimos",
+            "minor_unit_symbol": "mns_PEN",
+            "minor_unit_abbreviation": "C\u00e9ntimo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Sol"
+                },
+                "minor_unit": {
+                    "0-1": "C\u00e9ntimo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "PGK": {
+            "major_unit": "Papua New Guinean Kina",
+            "major_unit_symbol": "PGK",
+            "major_unit_abbreviation": "PGK",
+            "minor_unit": "Toea",
+            "minor_unit_symbol": "mns_PGK",
+            "minor_unit_abbreviation": "Toea",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Kina"
+                },
+                "minor_unit": {
+                    "0-1": "Toea"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "PHP": {
+            "major_unit": "Philippine Peso",
+            "major_unit_symbol": "\u20b1",
+            "major_unit_abbreviation": "PHP",
+            "minor_unit": "Sentimo",
+            "minor_unit_symbol": "mns_PHP",
+            "minor_unit_abbreviation": "Sentimo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Sentimo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "PKR": {
+            "major_unit": "Pakistani Rupee",
+            "major_unit_symbol": "PKR",
+            "major_unit_abbreviation": "PKR",
+            "minor_unit": "Paise",
+            "minor_unit_symbol": "mns_PKR",
+            "minor_unit_abbreviation": "Paisa",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rupee"
+                },
+                "minor_unit": {
+                    "0-1": "Paisa"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "PLN": {
+            "major_unit": "Polish Zloty",
+            "major_unit_symbol": "PLN",
+            "major_unit_abbreviation": "PLN",
+            "minor_unit": "Groszy",
+            "minor_unit_symbol": "mns_PLN",
+            "minor_unit_abbreviation": "Grosz",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Zloty"
+                },
+                "minor_unit": {
+                    "0-1": "Grosz"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "PYG": {
+            "major_unit": "Paraguayan Guarani",
+            "major_unit_symbol": "PYG",
+            "major_unit_abbreviation": "PYG",
+            "minor_unit": "Centimos",
+            "minor_unit_symbol": "mns_PYG",
+            "minor_unit_abbreviation": "Centimo",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Guaran\u00ed"
+                },
+                "minor_unit": {
+                    "0-1": "Centimo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "QAR": {
+            "major_unit": "Qatari Riyal",
+            "major_unit_symbol": "QAR",
+            "major_unit_abbreviation": "QAR",
+            "minor_unit": "Dirhams",
+            "minor_unit_symbol": "mns_QAR",
+            "minor_unit_abbreviation": "Dirham",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Riyal"
+                },
+                "minor_unit": {
+                    "0-1": "Dirham"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "RON": {
+            "major_unit": "Romanian Leu",
+            "major_unit_symbol": "RON",
+            "major_unit_abbreviation": "RON",
+            "minor_unit": "Bani",
+            "minor_unit_symbol": "mns_RON",
+            "minor_unit_abbreviation": "Ban",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Leu"
+                },
+                "minor_unit": {
+                    "0-1": "Ban"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "RSD": {
+            "major_unit": "Serbian Dinar",
+            "major_unit_symbol": "RSD",
+            "major_unit_abbreviation": "RSD",
+            "minor_unit": "Para",
+            "minor_unit_symbol": "mns_RSD",
+            "minor_unit_abbreviation": "Para",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dinar"
+                },
+                "minor_unit": {
+                    "0-1": "Para"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "RUB": {
+            "major_unit": "Russian Ruble",
+            "major_unit_symbol": "RUB",
+            "major_unit_abbreviation": "RUB",
+            "minor_unit": "Kopeks",
+            "minor_unit_symbol": "mns_RUB",
+            "minor_unit_abbreviation": "Kopek",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Ruble"
+                },
+                "minor_unit": {
+                    "0-1": "Kopek"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "RWF": {
+            "major_unit": "Faraa Ruwanndaa",
+            "major_unit_symbol": "RWF",
+            "major_unit_abbreviation": "RWF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_RWF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "SAR": {
+            "major_unit": "Riyaal Arabi Sawdit",
+            "major_unit_symbol": "SAR",
+            "major_unit_abbreviation": "SAR",
+            "minor_unit": "Halalahs",
+            "minor_unit_symbol": "mns_SAR",
+            "minor_unit_abbreviation": "Halalah",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Riyal"
+                },
+                "minor_unit": {
+                    "0-1": "Halalah"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SBD": {
+            "major_unit": "Solomon Islands Dollar",
+            "major_unit_symbol": "SBD",
+            "major_unit_abbreviation": "SBD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_SBD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SCR": {
+            "major_unit": "Rupii Seysel",
+            "major_unit_symbol": "SCR",
+            "major_unit_abbreviation": "SCR",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_SCR",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rupee"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SDG": {
+            "major_unit": "Liibar Sudaan",
+            "major_unit_symbol": "SDG",
+            "major_unit_abbreviation": "SDG",
+            "minor_unit": "Qirsh",
+            "minor_unit_symbol": "mns_SDG",
+            "minor_unit_abbreviation": "Qirsh",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Qirsh"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SEK": {
+            "major_unit": "Swedish Krona",
+            "major_unit_symbol": "SEK",
+            "major_unit_abbreviation": "SEK",
+            "minor_unit": "\u00d6re",
+            "minor_unit_symbol": "mns_SEK",
+            "minor_unit_abbreviation": "\u00d6re",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Krona"
+                },
+                "minor_unit": {
+                    "0-1": "\u00d6re"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SGD": {
+            "major_unit": "Singapore Dollar",
+            "major_unit_symbol": "SGD",
+            "major_unit_abbreviation": "SGD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_SGD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SHP": {
+            "major_unit": "Liibar Sent Helen",
+            "major_unit_symbol": "SHP",
+            "major_unit_abbreviation": "SHP",
+            "minor_unit": "Pence",
+            "minor_unit_symbol": "mns_SHP",
+            "minor_unit_abbreviation": "Penny",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Penny"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SLL": {
+            "major_unit": "Lewoon Seraa Liyon (1964\u20142022)",
+            "major_unit_symbol": "SLL",
+            "major_unit_abbreviation": "SLL",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_SLL",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Leone"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "SOS": {
+            "major_unit": "Siling Soomali",
+            "major_unit_symbol": "SOS",
+            "major_unit_abbreviation": "SOS",
+            "minor_unit": "Senti",
+            "minor_unit_symbol": "mns_SOS",
+            "minor_unit_abbreviation": "Senti",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Shilling"
+                },
+                "minor_unit": {
+                    "0-1": "Senti"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "SRD": {
+            "major_unit": "Surinamese Dollar",
+            "major_unit_symbol": "SRD",
+            "major_unit_abbreviation": "SRD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_SRD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SSP": {
+            "major_unit": "South Sudanese Pound",
+            "major_unit_symbol": "SSP",
+            "major_unit_abbreviation": "SSP",
+            "minor_unit": "Qirsh",
+            "minor_unit_symbol": "mns_SSP",
+            "minor_unit_abbreviation": "Qirsh",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Qirsh"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "STN": {
+            "major_unit": "Dobra Sawo Tome e Prensipe",
+            "major_unit_symbol": "STN",
+            "major_unit_abbreviation": "STN",
+            "minor_unit": "Centimos",
+            "minor_unit_symbol": "mns_STN",
+            "minor_unit_abbreviation": "Centimo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dobra"
+                },
+                "minor_unit": {
+                    "0-1": "Centimo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SVC": {
+            "major_unit": "Salvadoran Col\u00f3n",
+            "major_unit_symbol": "SVC",
+            "major_unit_abbreviation": "SVC",
+            "minor_unit": "Centavos",
+            "minor_unit_symbol": "mns_SVC",
+            "minor_unit_abbreviation": "Centavo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Col\u00f3n"
+                },
+                "minor_unit": {
+                    "0-1": "Centavo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "SYP": {
+            "major_unit": "Syrian Pound",
+            "major_unit_symbol": "SYP",
+            "major_unit_abbreviation": "SYP",
+            "minor_unit": "Qirsh",
+            "minor_unit_symbol": "mns_SYP",
+            "minor_unit_abbreviation": "Qirsh",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pound"
+                },
+                "minor_unit": {
+                    "0-1": "Qirsh"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "SZL": {
+            "major_unit": "Lilangeni Swaasilannda",
+            "major_unit_symbol": "SZL",
+            "major_unit_abbreviation": "SZL",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_SZL",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Lilangeni"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "THB": {
+            "major_unit": "Thai Baht",
+            "major_unit_symbol": "THB",
+            "major_unit_abbreviation": "THB",
+            "minor_unit": "Satang",
+            "minor_unit_symbol": "mns_THB",
+            "minor_unit_abbreviation": "Satang",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Baht"
+                },
+                "minor_unit": {
+                    "0-1": "Satang"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "TJS": {
+            "major_unit": "Tajikistani Somoni",
+            "major_unit_symbol": "TJS",
+            "major_unit_abbreviation": "TJS",
+            "minor_unit": "Diram",
+            "minor_unit_symbol": "mns_TJS",
+            "minor_unit_abbreviation": "Diram",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Somoni"
+                },
+                "minor_unit": {
+                    "0-1": "Diram"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "TMT": {
+            "major_unit": "Turkmenistani Manat",
+            "major_unit_symbol": "TMT",
+            "major_unit_abbreviation": "TMT",
+            "minor_unit": "Tenge",
+            "minor_unit_symbol": "mns_TMT",
+            "minor_unit_abbreviation": "Tenge",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Manat"
+                },
+                "minor_unit": {
+                    "0-1": "Tenge"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "TND": {
+            "major_unit": "Dinaar Tunisii",
+            "major_unit_symbol": "TND",
+            "major_unit_abbreviation": "TND",
+            "minor_unit": "Millime",
+            "minor_unit_symbol": "mns_TND",
+            "minor_unit_abbreviation": "Millime",
+            "decimals": 3,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dinar"
+                },
+                "minor_unit": {
+                    "0-1": "Millime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 3,
+                "rounding_increment": 0
+            }
+        },
+        "TOP": {
+            "major_unit": "Tongan Pa\u02bbanga",
+            "major_unit_symbol": "TOP",
+            "major_unit_abbreviation": "TOP",
+            "minor_unit": "Seniti",
+            "minor_unit_symbol": "mns_TOP",
+            "minor_unit_abbreviation": "Seniti",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Pa\\'anga"
+                },
+                "minor_unit": {
+                    "0-1": "Seniti"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "TRY": {
+            "major_unit": "Turkish Lira",
+            "major_unit_symbol": "TRY",
+            "major_unit_abbreviation": "TRY",
+            "minor_unit": "Kuru\u015f",
+            "minor_unit_symbol": "mns_TRY",
+            "minor_unit_abbreviation": "Kuru\u015f",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Lira"
+                },
+                "minor_unit": {
+                    "0-1": "Kuru\u015f"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "TTD": {
+            "major_unit": "Trinidad & Tobago Dollar",
+            "major_unit_symbol": "TTD",
+            "major_unit_abbreviation": "TTD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_TTD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "TWD": {
+            "major_unit": "New Taiwan Dollar",
+            "major_unit_symbol": "NT$",
+            "major_unit_abbreviation": "TWD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_TWD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "TZS": {
+            "major_unit": "Siling Tansanii",
+            "major_unit_symbol": "TZS",
+            "major_unit_abbreviation": "TZS",
+            "minor_unit": "Senti",
+            "minor_unit_symbol": "mns_TZS",
+            "minor_unit_abbreviation": "Senti",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Shilling"
+                },
+                "minor_unit": {
+                    "0-1": "Senti"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "UAH": {
+            "major_unit": "Ukrainian Hryvnia",
+            "major_unit_symbol": "UAH",
+            "major_unit_abbreviation": "UAH",
+            "minor_unit": "kopiyky",
+            "minor_unit_symbol": "mns_UAH",
+            "minor_unit_abbreviation": "Kopiyka",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Hryvnia"
+                },
+                "minor_unit": {
+                    "0-1": "Kopiyka"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "UGX": {
+            "major_unit": "Siling Uganndaa",
+            "major_unit_symbol": "UGX",
+            "major_unit_abbreviation": "UGX",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_UGX",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Shilling"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "USD": {
+            "major_unit": "Dolaar Dowlaaji Dentu\u0257i",
+            "major_unit_symbol": "US$",
+            "major_unit_abbreviation": "USD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_USD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "UYU": {
+            "major_unit": "Uruguayan Peso",
+            "major_unit_symbol": "UYU",
+            "major_unit_abbreviation": "UYU",
+            "minor_unit": "Cent\u00e9simos",
+            "minor_unit_symbol": "mns_UYU",
+            "minor_unit_abbreviation": "Cent\u00e9simo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Peso"
+                },
+                "minor_unit": {
+                    "0-1": "Cent\u00e9simo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "UZS": {
+            "major_unit": "Uzbekistani Som",
+            "major_unit_symbol": "UZS",
+            "major_unit_abbreviation": "UZS",
+            "minor_unit": "Tiyin",
+            "minor_unit_symbol": "mns_UZS",
+            "minor_unit_abbreviation": "Tiyin",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Som"
+                },
+                "minor_unit": {
+                    "0-1": "Tiyin"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "VED": {
+            "major_unit": "Bol\u00edvar Soberano",
+            "major_unit_symbol": "VED",
+            "major_unit_abbreviation": "VED",
+            "minor_unit": "C\u00e9ntimos",
+            "minor_unit_symbol": "mns_VED",
+            "minor_unit_abbreviation": "C\u00e9ntimo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Bol\u00edvar Digital"
+                },
+                "minor_unit": {
+                    "0-1": "C\u00e9ntimo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "VES": {
+            "major_unit": "Venezuelan Bol\u00edvar",
+            "major_unit_symbol": "VES",
+            "major_unit_abbreviation": "VES",
+            "minor_unit": "Centimos",
+            "minor_unit_symbol": "mns_VES",
+            "minor_unit_abbreviation": "Centimo",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Bol\u00edvar"
+                },
+                "minor_unit": {
+                    "0-1": "Centimo"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "VND": {
+            "major_unit": "Vietnamese Dong",
+            "major_unit_symbol": "\u20ab",
+            "major_unit_abbreviation": "VND",
+            "minor_unit": "H\u00e0o",
+            "minor_unit_symbol": "mns_VND",
+            "minor_unit_abbreviation": "H\u00e0o",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dong"
+                },
+                "minor_unit": {
+                    "0-1": "H\u00e0o"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "VUV": {
+            "major_unit": "Vanuatu Vatu",
+            "major_unit_symbol": "VUV",
+            "major_unit_abbreviation": "VUV",
+            "minor_unit": "",
+            "minor_unit_symbol": "mns_VUV",
+            "minor_unit_abbreviation": "",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Vatu"
+                },
+                "minor_unit": {
+                    "0-1": ""
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "WST": {
+            "major_unit": "Samoan Tala",
+            "major_unit_symbol": "WST",
+            "major_unit_abbreviation": "WST",
+            "minor_unit": "Sene",
+            "minor_unit_symbol": "mns_WST",
+            "minor_unit_abbreviation": "Sene",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Tala"
+                },
+                "minor_unit": {
+                    "0-1": "Sene"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "XAF": {
+            "major_unit": "Mbuu\u0257i Seefaa BEAC",
+            "major_unit_symbol": "FCFA",
+            "major_unit_abbreviation": "XAF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_XAF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "XCD": {
+            "major_unit": "East Caribbean Dollar",
+            "major_unit_symbol": "EC$",
+            "major_unit_abbreviation": "XCD",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_XCD",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "XOF": {
+            "major_unit": "Mbuu\u0257u Seefaa BCEAO",
+            "major_unit_symbol": "F\u202fCFA",
+            "major_unit_abbreviation": "XOF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_XOF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "XPF": {
+            "major_unit": "CFP Franc",
+            "major_unit_symbol": "CFPF",
+            "major_unit_abbreviation": "XPF",
+            "minor_unit": "Centimes",
+            "minor_unit_symbol": "mns_XPF",
+            "minor_unit_abbreviation": "Centime",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Franc"
+                },
+                "minor_unit": {
+                    "0-1": "Centime"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "YER": {
+            "major_unit": "Yemeni Rial",
+            "major_unit_symbol": "YER",
+            "major_unit_abbreviation": "YER",
+            "minor_unit": "Fils",
+            "minor_unit_symbol": "mns_YER",
+            "minor_unit_abbreviation": "Fils",
+            "decimals": 0,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rial"
+                },
+                "minor_unit": {
+                    "0-1": "Fils"
+                }
+            },
+            "cash": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 0,
+                "rounding_increment": 0
+            }
+        },
+        "ZAR": {
+            "major_unit": "Rannda Afrik B\u014b Worgo",
+            "major_unit_symbol": "ZAR",
+            "major_unit_abbreviation": "ZAR",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_ZAR",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Rand"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "ZMW": {
+            "major_unit": "Kuwacca Sammbi",
+            "major_unit_symbol": "ZMW",
+            "major_unit_abbreviation": "ZMW",
+            "minor_unit": "Ngwee",
+            "minor_unit_symbol": "mns_ZMW",
+            "minor_unit_abbreviation": "Ngwee",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Kwacha"
+                },
+                "minor_unit": {
+                    "0-1": "Ngwee"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        },
+        "ZWL": {
+            "major_unit": "Zimbabwean Dollar (2009\u20132024)",
+            "major_unit_symbol": "ZWL",
+            "major_unit_abbreviation": "ZWL",
+            "minor_unit": "Cents",
+            "minor_unit_symbol": "mns_ZWL",
+            "minor_unit_abbreviation": "Cent",
+            "decimals": 2,
+            "extra": {
+                "major_unit": {
+                    "0-1": "Dollar"
+                },
+                "minor_unit": {
+                    "0-1": "Cent"
+                }
+            },
+            "cash": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            },
+            "rounding": {
+                "fraction_digits": 2,
+                "rounding_increment": 0
+            }
+        }
+    },
+    "language_rules": {
+        "conjunction": "and",
+        "whole": "only",
+        "negative": "negative",
+        "template_positive_whole": "{major_integer} {major_unit} {whole}",
+        "template_positive_decimal": "{major_integer} {major_unit} {conjunction} {minor_integer} {minor_unit}",
+        "template_negative_whole": "{negative} {major_integer} {major_unit} {whole}",
+        "template_negative_decimal": "{negative} {major_integer} {major_unit} {conjunction} {minor_integer} {minor_unit}",
+        "template_zero": "{zero}"
+    }
+}
