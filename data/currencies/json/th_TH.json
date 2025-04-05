@@ -2,7 +2,7 @@
     "language": "th_TH",
     "currencies": {
         "AED": {
-            "major_unit": "\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e41\u0e2e\u0e21\u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e2d\u0e32\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e2d\u0e21\u0e34\u0e40\u0e23\u0e15\u0e2a\u0e4c",
+            "major_unit": "เดอร์แฮมสหรัฐอาหรับเอมิเรตส์",
             "major_unit_symbol": "AED",
             "major_unit_abbreviation": "AED",
             "minor_unit": "Fils",
@@ -27,7 +27,7 @@
             }
         },
         "AFN": {
-            "major_unit": "\u0e2d\u0e31\u0e1f\u0e01\u0e32\u0e19\u0e34\u0e2d\u0e31\u0e1f\u0e01\u0e32\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19",
+            "major_unit": "อัฟกานิอัฟกานิสถาน",
             "major_unit_symbol": "AFN",
             "major_unit_abbreviation": "AFN",
             "minor_unit": "Pul",
@@ -52,7 +52,7 @@
             }
         },
         "ALL": {
-            "major_unit": "\u0e40\u0e25\u0e01\u0e41\u0e2d\u0e25\u0e40\u0e1a\u0e40\u0e19\u0e35\u0e22",
+            "major_unit": "เลกแอลเบเนีย",
             "major_unit_symbol": "ALL",
             "major_unit_abbreviation": "ALL",
             "minor_unit": "Qindarka",
@@ -77,7 +77,7 @@
             }
         },
         "AMD": {
-            "major_unit": "\u0e41\u0e14\u0e23\u0e21\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e21\u0e40\u0e19\u0e35\u0e22",
+            "major_unit": "แดรมอาร์เมเนีย",
             "major_unit_symbol": "AMD",
             "major_unit_abbreviation": "AMD",
             "minor_unit": "Luma",
@@ -102,7 +102,7 @@
             }
         },
         "ANG": {
-            "major_unit": "\u0e01\u0e34\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c\u0e41\u0e2d\u0e19\u0e17\u0e34\u0e25\u0e25\u0e34\u0e2a",
+            "major_unit": "กิลเดอร์เนเธอร์แลนด์แอนทิลลิส",
             "major_unit_symbol": "ANG",
             "major_unit_abbreviation": "ANG",
             "minor_unit": "Cents",
@@ -127,7 +127,7 @@
             }
         },
         "AOA": {
-            "major_unit": "\u0e01\u0e27\u0e32\u0e19\u0e0b\u0e32\u0e41\u0e2d\u0e07\u0e42\u0e01\u0e25\u0e32",
+            "major_unit": "กวานซาแองโกลา",
             "major_unit_symbol": "AOA",
             "major_unit_abbreviation": "AOA",
             "minor_unit": "Centimos",
@@ -152,7 +152,7 @@
             }
         },
         "ARS": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32",
+            "major_unit": "เปโซอาร์เจนตินา",
             "major_unit_symbol": "ARS",
             "major_unit_abbreviation": "ARS",
             "minor_unit": "Centavos",
@@ -177,7 +177,7 @@
             }
         },
         "AUD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e40\u0e25\u0e35\u0e22",
+            "major_unit": "ดอลลาร์ออสเตรเลีย",
             "major_unit_symbol": "AU$",
             "major_unit_abbreviation": "AUD",
             "minor_unit": "Cents",
@@ -202,7 +202,7 @@
             }
         },
         "AWG": {
-            "major_unit": "\u0e1f\u0e25\u0e2d\u0e23\u0e34\u0e19\u0e2d\u0e32\u0e23\u0e39\u0e1a\u0e32",
+            "major_unit": "ฟลอรินอารูบา",
             "major_unit_symbol": "AWG",
             "major_unit_abbreviation": "AWG",
             "minor_unit": "Cents",
@@ -227,7 +227,7 @@
             }
         },
         "AZN": {
-            "major_unit": "\u0e21\u0e32\u0e19\u0e31\u0e15\u0e2d\u0e32\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e44\u0e1a\u0e08\u0e32\u0e19",
+            "major_unit": "มานัตอาเซอร์ไบจาน",
             "major_unit_symbol": "AZN",
             "major_unit_abbreviation": "AZN",
             "minor_unit": "Qapik",
@@ -252,7 +252,7 @@
             }
         },
         "BAM": {
-            "major_unit": "\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e1a\u0e2d\u0e2a\u0e40\u0e19\u0e35\u0e22-\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e42\u0e01\u0e27\u0e35\u0e19\u0e32",
+            "major_unit": "มาร์กบอสเนีย-เฮอร์เซโกวีนา",
             "major_unit_symbol": "BAM",
             "major_unit_abbreviation": "BAM",
             "minor_unit": "Fening",
@@ -277,7 +277,7 @@
             }
         },
         "BBD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e1a\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e42\u0e14\u0e2a",
+            "major_unit": "ดอลลาร์บาร์เบโดส",
             "major_unit_symbol": "BBD",
             "major_unit_abbreviation": "BBD",
             "minor_unit": "Cents",
@@ -302,7 +302,7 @@
             }
         },
         "BDT": {
-            "major_unit": "\u0e15\u0e32\u0e01\u0e32\u0e1a\u0e31\u0e07\u0e01\u0e25\u0e32\u0e40\u0e17\u0e28",
+            "major_unit": "ตากาบังกลาเทศ",
             "major_unit_symbol": "BDT",
             "major_unit_abbreviation": "BDT",
             "minor_unit": "Poisha",
@@ -327,7 +327,7 @@
             }
         },
         "BGN": {
-            "major_unit": "\u0e40\u0e25\u0e1f\u0e1a\u0e31\u0e25\u0e41\u0e01\u0e40\u0e23\u0e35\u0e22",
+            "major_unit": "เลฟบัลแกเรีย",
             "major_unit_symbol": "BGN",
             "major_unit_abbreviation": "BGN",
             "minor_unit": "Stotinki",
@@ -352,7 +352,7 @@
             }
         },
         "BHD": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e1a\u0e32\u0e2b\u0e4c\u0e40\u0e23\u0e19",
+            "major_unit": "ดีนาร์บาห์เรน",
             "major_unit_symbol": "BHD",
             "major_unit_abbreviation": "BHD",
             "minor_unit": "Fils",
@@ -377,7 +377,7 @@
             }
         },
         "BIF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e1a\u0e38\u0e23\u0e38\u0e19\u0e14\u0e35",
+            "major_unit": "ฟรังก์บุรุนดี",
             "major_unit_symbol": "BIF",
             "major_unit_abbreviation": "BIF",
             "minor_unit": "Centimes",
@@ -402,7 +402,7 @@
             }
         },
         "BMD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e27\u0e14\u0e32",
+            "major_unit": "ดอลลาร์เบอร์มิวดา",
             "major_unit_symbol": "BMD",
             "major_unit_abbreviation": "BMD",
             "minor_unit": "Cents",
@@ -427,7 +427,7 @@
             }
         },
         "BND": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e1a\u0e23\u0e39\u0e44\u0e19",
+            "major_unit": "ดอลลาร์บรูไน",
             "major_unit_symbol": "BND",
             "major_unit_abbreviation": "BND",
             "minor_unit": "Cents",
@@ -452,7 +452,7 @@
             }
         },
         "BOB": {
-            "major_unit": "\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22\u0e42\u0e19\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22",
+            "major_unit": "โบลิเวียโนโบลิเวีย",
             "major_unit_symbol": "BOB",
             "major_unit_abbreviation": "BOB",
             "minor_unit": "Centavos",
@@ -477,7 +477,7 @@
             }
         },
         "BRL": {
-            "major_unit": "\u0e40\u0e23\u0e35\u0e22\u0e25\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25",
+            "major_unit": "เรียลบราซิล",
             "major_unit_symbol": "R$",
             "major_unit_abbreviation": "BRL",
             "minor_unit": "Centavos",
@@ -502,7 +502,7 @@
             }
         },
         "BSD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e1a\u0e32\u0e2e\u0e32\u0e21\u0e32\u0e2a",
+            "major_unit": "ดอลลาร์บาฮามาส",
             "major_unit_symbol": "BSD",
             "major_unit_abbreviation": "BSD",
             "minor_unit": "Cents",
@@ -527,7 +527,7 @@
             }
         },
         "BTN": {
-            "major_unit": "\u0e40\u0e2d\u0e47\u0e07\u0e01\u0e38\u0e25\u0e15\u0e23\u0e31\u0e21\u0e20\u0e39\u0e0f\u0e32\u0e19",
+            "major_unit": "เอ็งกุลตรัมภูฏาน",
             "major_unit_symbol": "BTN",
             "major_unit_abbreviation": "BTN",
             "minor_unit": "Chetrums",
@@ -552,7 +552,7 @@
             }
         },
         "BWP": {
-            "major_unit": "\u0e1b\u0e39\u0e25\u0e32\u0e1a\u0e2d\u0e15\u0e2a\u0e27\u0e32\u0e19\u0e32",
+            "major_unit": "ปูลาบอตสวานา",
             "major_unit_symbol": "BWP",
             "major_unit_abbreviation": "BWP",
             "minor_unit": "Thebe",
@@ -577,7 +577,7 @@
             }
         },
         "BYN": {
-            "major_unit": "\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e40\u0e1a\u0e25\u0e32\u0e23\u0e38\u0e2a",
+            "major_unit": "รูเบิลเบลารุส",
             "major_unit_symbol": "BYN",
             "major_unit_abbreviation": "BYN",
             "minor_unit": "Kapiejka",
@@ -602,7 +602,7 @@
             }
         },
         "BZD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e25\u0e35\u0e0b",
+            "major_unit": "ดอลลาร์เบลีซ",
             "major_unit_symbol": "BZD",
             "major_unit_abbreviation": "BZD",
             "minor_unit": "Cents",
@@ -627,7 +627,7 @@
             }
         },
         "CAD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e41\u0e04\u0e19\u0e32\u0e14\u0e32",
+            "major_unit": "ดอลลาร์แคนาดา",
             "major_unit_symbol": "CA$",
             "major_unit_abbreviation": "CAD",
             "minor_unit": "Cents",
@@ -652,7 +652,7 @@
             }
         },
         "CDF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e04\u0e2d\u0e07\u0e42\u0e01",
+            "major_unit": "ฟรังก์คองโก",
             "major_unit_symbol": "CDF",
             "major_unit_abbreviation": "CDF",
             "minor_unit": "Centimes",
@@ -677,7 +677,7 @@
             }
         },
         "CHF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e2a\u0e27\u0e34\u0e2a",
+            "major_unit": "ฟรังก์สวิส",
             "major_unit_symbol": "CHF",
             "major_unit_abbreviation": "CHF",
             "minor_unit": "Centimes",
@@ -702,7 +702,7 @@
             }
         },
         "CLP": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e0a\u0e34\u0e25\u0e35",
+            "major_unit": "เปโซชิลี",
             "major_unit_symbol": "CLP",
             "major_unit_abbreviation": "CLP",
             "minor_unit": "Centavos",
@@ -727,8 +727,8 @@
             }
         },
         "CNY": {
-            "major_unit": "\u0e2b\u0e22\u0e27\u0e19\u0e08\u0e35\u0e19",
-            "major_unit_symbol": "CN\u00a5",
+            "major_unit": "หยวนจีน",
+            "major_unit_symbol": "CN¥",
             "major_unit_abbreviation": "CNY",
             "minor_unit": "Fen",
             "minor_unit_symbol": "mns_CNY",
@@ -752,7 +752,7 @@
             }
         },
         "COP": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e42\u0e04\u0e25\u0e2d\u0e21\u0e40\u0e1a\u0e35\u0e22",
+            "major_unit": "เปโซโคลอมเบีย",
             "major_unit_symbol": "COP",
             "major_unit_abbreviation": "COP",
             "minor_unit": "Centavos",
@@ -777,7 +777,7 @@
             }
         },
         "CRC": {
-            "major_unit": "\u0e42\u0e01\u0e25\u0e2d\u0e07\u0e04\u0e2d\u0e2a\u0e15\u0e32\u0e23\u0e34\u0e01\u0e32",
+            "major_unit": "โกลองคอสตาริกา",
             "major_unit_symbol": "CRC",
             "major_unit_abbreviation": "CRC",
             "minor_unit": "Centimos",
@@ -786,7 +786,7 @@
             "decimals": 2,
             "extra": {
                 "major_unit": {
-                    "0-1": "Col\u00f3n"
+                    "0-1": "Colón"
                 },
                 "minor_unit": {
                     "0-1": "Centimo"
@@ -802,7 +802,7 @@
             }
         },
         "CUC": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e04\u0e34\u0e27\u0e1a\u0e32 (\u0e41\u0e1b\u0e25\u0e07\u0e2a\u0e20\u0e32\u0e1e)",
+            "major_unit": "เปโซคิวบา (แปลงสภาพ)",
             "major_unit_symbol": "CUC",
             "major_unit_abbreviation": "CUC",
             "minor_unit": "Centavos",
@@ -827,7 +827,7 @@
             }
         },
         "CUP": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e04\u0e34\u0e27\u0e1a\u0e32",
+            "major_unit": "เปโซคิวบา",
             "major_unit_symbol": "CUP",
             "major_unit_abbreviation": "CUP",
             "minor_unit": "Centavos",
@@ -852,7 +852,7 @@
             }
         },
         "CVE": {
-            "major_unit": "\u0e40\u0e2d\u0e2a\u0e04\u0e39\u0e42\u0e14\u0e40\u0e04\u0e1b\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e14",
+            "major_unit": "เอสคูโดเคปเวิร์ด",
             "major_unit_symbol": "CVE",
             "major_unit_abbreviation": "CVE",
             "minor_unit": "Centavos",
@@ -877,19 +877,19 @@
             }
         },
         "CZK": {
-            "major_unit": "\u0e42\u0e04\u0e23\u0e39\u0e19\u0e32\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e40\u0e0a\u0e47\u0e01",
+            "major_unit": "โครูนาสาธารณรัฐเช็ก",
             "major_unit_symbol": "CZK",
             "major_unit_abbreviation": "CZK",
-            "minor_unit": "Hal\u00e9\u0159",
+            "minor_unit": "Haléř",
             "minor_unit_symbol": "mns_CZK",
-            "minor_unit_abbreviation": "Hal\u00e9\u0159",
+            "minor_unit_abbreviation": "Haléř",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Koruna"
                 },
                 "minor_unit": {
-                    "0-1": "Hal\u00e9\u0159"
+                    "0-1": "Haléř"
                 }
             },
             "cash": {
@@ -902,7 +902,7 @@
             }
         },
         "DJF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e08\u0e34\u0e1a\u0e39\u0e15\u0e35",
+            "major_unit": "ฟรังก์จิบูตี",
             "major_unit_symbol": "DJF",
             "major_unit_abbreviation": "DJF",
             "minor_unit": "Centimes",
@@ -927,19 +927,19 @@
             }
         },
         "DKK": {
-            "major_unit": "\u0e42\u0e04\u0e23\u0e19\u0e40\u0e14\u0e19\u0e21\u0e32\u0e23\u0e4c\u0e01",
+            "major_unit": "โครนเดนมาร์ก",
             "major_unit_symbol": "DKK",
             "major_unit_abbreviation": "DKK",
-            "minor_unit": "\u00d8re",
+            "minor_unit": "Øre",
             "minor_unit_symbol": "mns_DKK",
-            "minor_unit_abbreviation": "\u00d8re",
+            "minor_unit_abbreviation": "Øre",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Krone"
                 },
                 "minor_unit": {
-                    "0-1": "\u00d8re"
+                    "0-1": "Øre"
                 }
             },
             "cash": {
@@ -952,7 +952,7 @@
             }
         },
         "DOP": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e42\u0e14\u0e21\u0e34\u0e19\u0e34\u0e01\u0e31\u0e19",
+            "major_unit": "เปโซโดมินิกัน",
             "major_unit_symbol": "DOP",
             "major_unit_abbreviation": "DOP",
             "minor_unit": "Centavos",
@@ -977,7 +977,7 @@
             }
         },
         "DZD": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e41\u0e2d\u0e25\u0e08\u0e35\u0e40\u0e23\u0e35\u0e22",
+            "major_unit": "ดีนาร์แอลจีเรีย",
             "major_unit_symbol": "DZD",
             "major_unit_abbreviation": "DZD",
             "minor_unit": "Santeems",
@@ -1002,7 +1002,7 @@
             }
         },
         "EGP": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e2d\u0e35\u0e22\u0e34\u0e1b\u0e15\u0e4c",
+            "major_unit": "ปอนด์อียิปต์",
             "major_unit_symbol": "EGP",
             "major_unit_abbreviation": "EGP",
             "minor_unit": "Qirsh",
@@ -1027,7 +1027,7 @@
             }
         },
         "ERN": {
-            "major_unit": "\u0e41\u0e19\u0e01\u0e1f\u0e32\u0e40\u0e2d\u0e23\u0e34\u0e40\u0e17\u0e23\u0e35\u0e22",
+            "major_unit": "แนกฟาเอริเทรีย",
             "major_unit_symbol": "ERN",
             "major_unit_abbreviation": "ERN",
             "minor_unit": "Cents",
@@ -1052,7 +1052,7 @@
             }
         },
         "ETB": {
-            "major_unit": "\u0e40\u0e1a\u0e2d\u0e23\u0e23\u0e4c\u0e40\u0e2d\u0e18\u0e34\u0e42\u0e2d\u0e40\u0e1b\u0e35\u0e22",
+            "major_unit": "เบอรร์เอธิโอเปีย",
             "major_unit_symbol": "ETB",
             "major_unit_abbreviation": "ETB",
             "minor_unit": "Santim",
@@ -1077,8 +1077,8 @@
             }
         },
         "EUR": {
-            "major_unit": "\u0e22\u0e39\u0e42\u0e23",
-            "major_unit_symbol": "\u20ac",
+            "major_unit": "ยูโร",
+            "major_unit_symbol": "€",
             "major_unit_abbreviation": "EUR",
             "minor_unit": "Cents",
             "minor_unit_symbol": "mns_EUR",
@@ -1102,7 +1102,7 @@
             }
         },
         "FJD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e1f\u0e34\u0e08\u0e34",
+            "major_unit": "ดอลลาร์ฟิจิ",
             "major_unit_symbol": "FJD",
             "major_unit_abbreviation": "FJD",
             "minor_unit": "Cents",
@@ -1127,7 +1127,7 @@
             }
         },
         "FKP": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e1f\u0e2d\u0e25\u0e4c\u0e01\u0e41\u0e25\u0e19\u0e14\u0e4c",
+            "major_unit": "ปอนด์หมู่เกาะฟอล์กแลนด์",
             "major_unit_symbol": "FKP",
             "major_unit_abbreviation": "FKP",
             "minor_unit": "Pence",
@@ -1152,8 +1152,8 @@
             }
         },
         "GBP": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e2a\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e25\u0e34\u0e07 (\u0e2a\u0e2b\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23)",
-            "major_unit_symbol": "\u00a3",
+            "major_unit": "ปอนด์สเตอร์ลิง (สหราชอาณาจักร)",
+            "major_unit_symbol": "£",
             "major_unit_abbreviation": "GBP",
             "minor_unit": "Pence",
             "minor_unit_symbol": "mns_GBP",
@@ -1177,7 +1177,7 @@
             }
         },
         "GEL": {
-            "major_unit": "\u0e25\u0e32\u0e23\u0e35\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22",
+            "major_unit": "ลารีจอร์เจีย",
             "major_unit_symbol": "GEL",
             "major_unit_abbreviation": "GEL",
             "minor_unit": "Tetri",
@@ -1202,7 +1202,7 @@
             }
         },
         "GHS": {
-            "major_unit": "\u0e40\u0e0b\u0e14\u0e35\u0e01\u0e32\u0e19\u0e32",
+            "major_unit": "เซดีกานา",
             "major_unit_symbol": "GHS",
             "major_unit_abbreviation": "GHS",
             "minor_unit": "Pesewas",
@@ -1227,7 +1227,7 @@
             }
         },
         "GIP": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e22\u0e34\u0e1a\u0e23\u0e2d\u0e25\u0e15\u0e32\u0e23\u0e4c",
+            "major_unit": "ปอนด์ยิบรอลตาร์",
             "major_unit_symbol": "GIP",
             "major_unit_abbreviation": "GIP",
             "minor_unit": "Pence",
@@ -1252,7 +1252,7 @@
             }
         },
         "GMD": {
-            "major_unit": "\u0e14\u0e32\u0e25\u0e32\u0e0b\u0e35\u0e41\u0e01\u0e21\u0e40\u0e1a\u0e35\u0e22",
+            "major_unit": "ดาลาซีแกมเบีย",
             "major_unit_symbol": "GMD",
             "major_unit_abbreviation": "GMD",
             "minor_unit": "Bututs",
@@ -1277,7 +1277,7 @@
             }
         },
         "GNF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e01\u0e34\u0e19\u0e35",
+            "major_unit": "ฟรังก์กินี",
             "major_unit_symbol": "GNF",
             "major_unit_abbreviation": "GNF",
             "minor_unit": "Centimes",
@@ -1302,7 +1302,7 @@
             }
         },
         "GTQ": {
-            "major_unit": "\u0e40\u0e04\u0e27\u0e15\u0e0b\u0e31\u0e25\u0e01\u0e31\u0e27\u0e40\u0e15\u0e21\u0e32\u0e25\u0e32",
+            "major_unit": "เควตซัลกัวเตมาลา",
             "major_unit_symbol": "GTQ",
             "major_unit_abbreviation": "GTQ",
             "minor_unit": "Centavos",
@@ -1327,7 +1327,7 @@
             }
         },
         "GYD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e01\u0e32\u0e22\u0e2d\u0e32\u0e19\u0e32",
+            "major_unit": "ดอลลาร์กายอานา",
             "major_unit_symbol": "GYD",
             "major_unit_abbreviation": "GYD",
             "minor_unit": "Cents",
@@ -1352,7 +1352,7 @@
             }
         },
         "HKD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2e\u0e48\u0e2d\u0e07\u0e01\u0e07",
+            "major_unit": "ดอลลาร์ฮ่องกง",
             "major_unit_symbol": "HK$",
             "major_unit_abbreviation": "HKD",
             "minor_unit": "Cents",
@@ -1377,7 +1377,7 @@
             }
         },
         "HNL": {
-            "major_unit": "\u0e40\u0e25\u0e21\u0e1b\u0e34\u0e23\u0e32\u0e2e\u0e2d\u0e19\u0e14\u0e39\u0e23\u0e31\u0e2a",
+            "major_unit": "เลมปิราฮอนดูรัส",
             "major_unit_symbol": "HNL",
             "major_unit_abbreviation": "HNL",
             "minor_unit": "Centavos",
@@ -1402,7 +1402,7 @@
             }
         },
         "HRK": {
-            "major_unit": "\u0e04\u0e39\u0e19\u0e32\u0e42\u0e04\u0e23\u0e40\u0e2d\u0e40\u0e0a\u0e35\u0e22",
+            "major_unit": "คูนาโครเอเชีย",
             "major_unit_symbol": "HRK",
             "major_unit_abbreviation": "HRK",
             "minor_unit": "Lipa",
@@ -1427,7 +1427,7 @@
             }
         },
         "HTG": {
-            "major_unit": "\u0e01\u0e39\u0e23\u0e4c\u0e14\u0e40\u0e2e\u0e15\u0e34",
+            "major_unit": "กูร์ดเฮติ",
             "major_unit_symbol": "HTG",
             "major_unit_abbreviation": "HTG",
             "minor_unit": "Centimes",
@@ -1452,19 +1452,19 @@
             }
         },
         "HUF": {
-            "major_unit": "\u0e1f\u0e2d\u0e23\u0e34\u0e19\u0e15\u0e4c\u0e2e\u0e31\u0e07\u0e01\u0e32\u0e23\u0e35",
+            "major_unit": "ฟอรินต์ฮังการี",
             "major_unit_symbol": "HUF",
             "major_unit_abbreviation": "HUF",
-            "minor_unit": "fill\u00e9r",
+            "minor_unit": "fillér",
             "minor_unit_symbol": "mns_HUF",
-            "minor_unit_abbreviation": "fill\u00e9r",
+            "minor_unit_abbreviation": "fillér",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Forint"
                 },
                 "minor_unit": {
-                    "0-1": "fill\u00e9r"
+                    "0-1": "fillér"
                 }
             },
             "cash": {
@@ -1477,7 +1477,7 @@
             }
         },
         "IDR": {
-            "major_unit": "\u0e23\u0e39\u0e40\u0e1b\u0e35\u0e22\u0e2b\u0e4c\u0e2d\u0e34\u0e19\u0e42\u0e14\u0e19\u0e35\u0e40\u0e0b\u0e35\u0e22",
+            "major_unit": "รูเปียห์อินโดนีเซีย",
             "major_unit_symbol": "IDR",
             "major_unit_abbreviation": "IDR",
             "minor_unit": "Sen",
@@ -1502,8 +1502,8 @@
             }
         },
         "ILS": {
-            "major_unit": "\u0e19\u0e34\u0e27\u0e40\u0e0a\u0e40\u0e01\u0e25\u0e2d\u0e34\u0e2a\u0e23\u0e32\u0e40\u0e2d\u0e25",
-            "major_unit_symbol": "\u20aa",
+            "major_unit": "นิวเชเกลอิสราเอล",
+            "major_unit_symbol": "₪",
             "major_unit_abbreviation": "ILS",
             "minor_unit": "Agoras",
             "minor_unit_symbol": "mns_ILS",
@@ -1527,8 +1527,8 @@
             }
         },
         "INR": {
-            "major_unit": "\u0e23\u0e39\u0e1b\u0e35\u0e2d\u0e34\u0e19\u0e40\u0e14\u0e35\u0e22",
-            "major_unit_symbol": "\u20b9",
+            "major_unit": "รูปีอินเดีย",
+            "major_unit_symbol": "₹",
             "major_unit_abbreviation": "INR",
             "minor_unit": "Paise",
             "minor_unit_symbol": "mns_INR",
@@ -1552,7 +1552,7 @@
             }
         },
         "IQD": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e2d\u0e34\u0e23\u0e31\u0e01",
+            "major_unit": "ดีนาร์อิรัก",
             "major_unit_symbol": "IQD",
             "major_unit_abbreviation": "IQD",
             "minor_unit": "Fils",
@@ -1577,7 +1577,7 @@
             }
         },
         "IRR": {
-            "major_unit": "\u0e40\u0e23\u0e35\u0e22\u0e25\u0e2d\u0e34\u0e2b\u0e23\u0e48\u0e32\u0e19",
+            "major_unit": "เรียลอิหร่าน",
             "major_unit_symbol": "IRR",
             "major_unit_abbreviation": "IRR",
             "minor_unit": "Dinars",
@@ -1602,7 +1602,7 @@
             }
         },
         "ISK": {
-            "major_unit": "\u0e42\u0e04\u0e23\u0e19\u0e32\u0e44\u0e2d\u0e0b\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c",
+            "major_unit": "โครนาไอซ์แลนด์",
             "major_unit_symbol": "ISK",
             "major_unit_abbreviation": "ISK",
             "minor_unit": "Aurar",
@@ -1627,7 +1627,7 @@
             }
         },
         "JMD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e08\u0e32\u0e40\u0e21\u0e01\u0e32",
+            "major_unit": "ดอลลาร์จาเมกา",
             "major_unit_symbol": "JMD",
             "major_unit_abbreviation": "JMD",
             "minor_unit": "Cents",
@@ -1652,7 +1652,7 @@
             }
         },
         "JOD": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e08\u0e2d\u0e23\u0e4c\u0e41\u0e14\u0e19",
+            "major_unit": "ดีนาร์จอร์แดน",
             "major_unit_symbol": "JOD",
             "major_unit_abbreviation": "JOD",
             "minor_unit": "Fils",
@@ -1677,8 +1677,8 @@
             }
         },
         "JPY": {
-            "major_unit": "\u0e40\u0e22\u0e19\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19",
-            "major_unit_symbol": "\u00a5",
+            "major_unit": "เยนญี่ปุ่น",
+            "major_unit_symbol": "¥",
             "major_unit_abbreviation": "JPY",
             "minor_unit": "Sen",
             "minor_unit_symbol": "mns_JPY",
@@ -1702,7 +1702,7 @@
             }
         },
         "KES": {
-            "major_unit": "\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e40\u0e04\u0e19\u0e22\u0e32",
+            "major_unit": "ชิลลิงเคนยา",
             "major_unit_symbol": "KES",
             "major_unit_abbreviation": "KES",
             "minor_unit": "Cents",
@@ -1727,7 +1727,7 @@
             }
         },
         "KGS": {
-            "major_unit": "\u0e0b\u0e2d\u0e21\u0e04\u0e35\u0e23\u0e4c\u0e01\u0e35\u0e0b\u0e2a\u0e16\u0e32\u0e19",
+            "major_unit": "ซอมคีร์กีซสถาน",
             "major_unit_symbol": "KGS",
             "major_unit_abbreviation": "KGS",
             "minor_unit": "Tyiyn",
@@ -1752,7 +1752,7 @@
             }
         },
         "KHR": {
-            "major_unit": "\u0e40\u0e23\u0e35\u0e22\u0e25\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+            "major_unit": "เรียลกัมพูชา",
             "major_unit_symbol": "KHR",
             "major_unit_abbreviation": "KHR",
             "minor_unit": "Sen",
@@ -1777,7 +1777,7 @@
             }
         },
         "KMF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e04\u0e2d\u0e42\u0e21\u0e42\u0e23\u0e2a",
+            "major_unit": "ฟรังก์คอโมโรส",
             "major_unit_symbol": "KMF",
             "major_unit_abbreviation": "KMF",
             "minor_unit": "Centimes",
@@ -1802,7 +1802,7 @@
             }
         },
         "KPW": {
-            "major_unit": "\u0e27\u0e2d\u0e19\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e40\u0e2b\u0e19\u0e37\u0e2d",
+            "major_unit": "วอนเกาหลีเหนือ",
             "major_unit_symbol": "KPW",
             "major_unit_abbreviation": "KPW",
             "minor_unit": "Chon",
@@ -1827,8 +1827,8 @@
             }
         },
         "KRW": {
-            "major_unit": "\u0e27\u0e2d\u0e19\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e43\u0e15\u0e49",
-            "major_unit_symbol": "\u20a9",
+            "major_unit": "วอนเกาหลีใต้",
+            "major_unit_symbol": "₩",
             "major_unit_abbreviation": "KRW",
             "minor_unit": "Jeon",
             "minor_unit_symbol": "mns_KRW",
@@ -1852,7 +1852,7 @@
             }
         },
         "KWD": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e04\u0e39\u0e40\u0e27\u0e15",
+            "major_unit": "ดีนาร์คูเวต",
             "major_unit_symbol": "KWD",
             "major_unit_abbreviation": "KWD",
             "minor_unit": "Fils",
@@ -1877,7 +1877,7 @@
             }
         },
         "KYD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e40\u0e04\u0e22\u0e4c\u0e41\u0e21\u0e19",
+            "major_unit": "ดอลลาร์หมู่เกาะเคย์แมน",
             "major_unit_symbol": "KYD",
             "major_unit_abbreviation": "KYD",
             "minor_unit": "Cents",
@@ -1902,19 +1902,19 @@
             }
         },
         "KZT": {
-            "major_unit": "\u0e40\u0e17\u0e07\u0e40\u0e08\u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19",
+            "major_unit": "เทงเจคาซัคสถาน",
             "major_unit_symbol": "KZT",
             "major_unit_abbreviation": "KZT",
-            "minor_unit": "T\u0131yn",
+            "minor_unit": "Tıyn",
             "minor_unit_symbol": "mns_KZT",
-            "minor_unit_abbreviation": "T\u0131yn",
+            "minor_unit_abbreviation": "Tıyn",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Tenge"
                 },
                 "minor_unit": {
-                    "0-1": "T\u0131yn"
+                    "0-1": "Tıyn"
                 }
             },
             "cash": {
@@ -1927,7 +1927,7 @@
             }
         },
         "LAK": {
-            "major_unit": "\u0e01\u0e35\u0e1a\u0e25\u0e32\u0e27",
+            "major_unit": "กีบลาว",
             "major_unit_symbol": "LAK",
             "major_unit_abbreviation": "LAK",
             "minor_unit": "Att",
@@ -1952,7 +1952,7 @@
             }
         },
         "LBP": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e40\u0e25\u0e1a\u0e32\u0e19\u0e2d\u0e19",
+            "major_unit": "ปอนด์เลบานอน",
             "major_unit_symbol": "LBP",
             "major_unit_abbreviation": "LBP",
             "minor_unit": "Qirsh",
@@ -1977,7 +1977,7 @@
             }
         },
         "LKR": {
-            "major_unit": "\u0e23\u0e39\u0e1b\u0e35\u0e28\u0e23\u0e35\u0e25\u0e31\u0e07\u0e01\u0e32",
+            "major_unit": "รูปีศรีลังกา",
             "major_unit_symbol": "LKR",
             "major_unit_abbreviation": "LKR",
             "minor_unit": "Cents",
@@ -2002,7 +2002,7 @@
             }
         },
         "LRD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e44\u0e25\u0e1a\u0e35\u0e40\u0e23\u0e35\u0e22",
+            "major_unit": "ดอลลาร์ไลบีเรีย",
             "major_unit_symbol": "LRD",
             "major_unit_abbreviation": "LRD",
             "minor_unit": "Cents",
@@ -2027,7 +2027,7 @@
             }
         },
         "LSL": {
-            "major_unit": "\u0e42\u0e25\u0e15\u0e35\u0e40\u0e25\u0e42\u0e0b\u0e42\u0e17",
+            "major_unit": "โลตีเลโซโท",
             "major_unit_symbol": "LSL",
             "major_unit_abbreviation": "LSL",
             "minor_unit": "Lisente",
@@ -2052,7 +2052,7 @@
             }
         },
         "LYD": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e25\u0e34\u0e40\u0e1a\u0e35\u0e22",
+            "major_unit": "ดีนาร์ลิเบีย",
             "major_unit_symbol": "LYD",
             "major_unit_abbreviation": "LYD",
             "minor_unit": "Dirhams",
@@ -2077,7 +2077,7 @@
             }
         },
         "MAD": {
-            "major_unit": "\u0e14\u0e35\u0e41\u0e23\u0e2b\u0e4c\u0e21\u0e42\u0e21\u0e23\u0e47\u0e2d\u0e01\u0e42\u0e01",
+            "major_unit": "ดีแรห์มโมร็อกโก",
             "major_unit_symbol": "MAD",
             "major_unit_abbreviation": "MAD",
             "minor_unit": "Centimes",
@@ -2102,7 +2102,7 @@
             }
         },
         "MDL": {
-            "major_unit": "\u0e25\u0e34\u0e27\u0e21\u0e2d\u0e25\u0e42\u0e14\u0e27\u0e32",
+            "major_unit": "ลิวมอลโดวา",
             "major_unit_symbol": "MDL",
             "major_unit_abbreviation": "MDL",
             "minor_unit": "Bani",
@@ -2127,7 +2127,7 @@
             }
         },
         "MGA": {
-            "major_unit": "\u0e2d\u0e32\u0e40\u0e23\u0e35\u0e22\u0e23\u0e35\u0e21\u0e32\u0e25\u0e32\u0e01\u0e32\u0e0b\u0e35",
+            "major_unit": "อาเรียรีมาลากาซี",
             "major_unit_symbol": "MGA",
             "major_unit_abbreviation": "MGA",
             "minor_unit": "Iraimbilanja",
@@ -2152,7 +2152,7 @@
             }
         },
         "MKD": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22",
+            "major_unit": "ดีนาร์มาซิโดเนีย",
             "major_unit_symbol": "MKD",
             "major_unit_abbreviation": "MKD",
             "minor_unit": "Deni",
@@ -2177,7 +2177,7 @@
             }
         },
         "MMK": {
-            "major_unit": "\u0e08\u0e4a\u0e32\u0e15\u0e1e\u0e21\u0e48\u0e32",
+            "major_unit": "จ๊าตพม่า",
             "major_unit_symbol": "MMK",
             "major_unit_abbreviation": "MMK",
             "minor_unit": "Pya",
@@ -2202,19 +2202,19 @@
             }
         },
         "MNT": {
-            "major_unit": "\u0e17\u0e39\u0e01\u0e23\u0e34\u0e01\u0e21\u0e2d\u0e07\u0e42\u0e01\u0e40\u0e25\u0e35\u0e22",
+            "major_unit": "ทูกริกมองโกเลีย",
             "major_unit_symbol": "MNT",
             "major_unit_abbreviation": "MNT",
-            "minor_unit": "m\u00f6ng\u00f6",
+            "minor_unit": "möngö",
             "minor_unit_symbol": "mns_MNT",
-            "minor_unit_abbreviation": "m\u00f6ng\u00f6",
+            "minor_unit_abbreviation": "möngö",
             "decimals": 2,
             "extra": {
                 "major_unit": {
-                    "0-1": "T\u00f6gr\u00f6g"
+                    "0-1": "Tögrög"
                 },
                 "minor_unit": {
-                    "0-1": "m\u00f6ng\u00f6"
+                    "0-1": "möngö"
                 }
             },
             "cash": {
@@ -2227,7 +2227,7 @@
             }
         },
         "MOP": {
-            "major_unit": "\u0e1b\u0e32\u0e15\u0e32\u0e01\u0e32\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32",
+            "major_unit": "ปาตากามาเก๊า",
             "major_unit_symbol": "MOP",
             "major_unit_abbreviation": "MOP",
             "minor_unit": "Avos",
@@ -2252,7 +2252,7 @@
             }
         },
         "MRU": {
-            "major_unit": "\u0e2d\u0e39\u0e01\u0e35\u0e22\u0e32\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e15\u0e40\u0e19\u0e35\u0e22",
+            "major_unit": "อูกียามอริเตเนีย",
             "major_unit_symbol": "MRU",
             "major_unit_abbreviation": "MRU",
             "minor_unit": "Khoums",
@@ -2277,7 +2277,7 @@
             }
         },
         "MUR": {
-            "major_unit": "\u0e23\u0e39\u0e1b\u0e35\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e2a",
+            "major_unit": "รูปีมอริเชียส",
             "major_unit_symbol": "MUR",
             "major_unit_abbreviation": "MUR",
             "minor_unit": "Cents",
@@ -2302,7 +2302,7 @@
             }
         },
         "MVR": {
-            "major_unit": "\u0e23\u0e39\u0e1f\u0e34\u0e22\u0e32\u0e21\u0e31\u0e25\u0e14\u0e35\u0e1f\u0e2a\u0e4c",
+            "major_unit": "รูฟิยามัลดีฟส์",
             "major_unit_symbol": "MVR",
             "major_unit_abbreviation": "MVR",
             "minor_unit": "laari",
@@ -2327,7 +2327,7 @@
             }
         },
         "MWK": {
-            "major_unit": "\u0e04\u0e27\u0e32\u0e0a\u0e32\u0e21\u0e32\u0e25\u0e32\u0e27\u0e35",
+            "major_unit": "ควาชามาลาวี",
             "major_unit_symbol": "MWK",
             "major_unit_abbreviation": "MWK",
             "minor_unit": "Tambala",
@@ -2352,7 +2352,7 @@
             }
         },
         "MXN": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01",
+            "major_unit": "เปโซเม็กซิโก",
             "major_unit_symbol": "MX$",
             "major_unit_abbreviation": "MXN",
             "minor_unit": "Centavos",
@@ -2377,7 +2377,7 @@
             }
         },
         "MYR": {
-            "major_unit": "\u0e23\u0e34\u0e07\u0e01\u0e34\u0e15\u0e21\u0e32\u0e40\u0e25\u0e40\u0e0b\u0e35\u0e22",
+            "major_unit": "ริงกิตมาเลเซีย",
             "major_unit_symbol": "MYR",
             "major_unit_abbreviation": "MYR",
             "minor_unit": "Sen",
@@ -2402,7 +2402,7 @@
             }
         },
         "MZN": {
-            "major_unit": "\u0e40\u0e21\u0e15\u0e34\u0e04\u0e31\u0e25\u0e42\u0e21\u0e0b\u0e31\u0e21\u0e1a\u0e34\u0e01",
+            "major_unit": "เมติคัลโมซัมบิก",
             "major_unit_symbol": "MZN",
             "major_unit_abbreviation": "MZN",
             "minor_unit": "Centavos",
@@ -2427,7 +2427,7 @@
             }
         },
         "NAD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e19\u0e32\u0e21\u0e34\u0e40\u0e1a\u0e35\u0e22",
+            "major_unit": "ดอลลาร์นามิเบีย",
             "major_unit_symbol": "NAD",
             "major_unit_abbreviation": "NAD",
             "minor_unit": "Cents",
@@ -2452,7 +2452,7 @@
             }
         },
         "NGN": {
-            "major_unit": "\u0e44\u0e19\u0e23\u0e32\u0e44\u0e19\u0e08\u0e35\u0e40\u0e23\u0e35\u0e22",
+            "major_unit": "ไนราไนจีเรีย",
             "major_unit_symbol": "NGN",
             "major_unit_abbreviation": "NGN",
             "minor_unit": "Kobo",
@@ -2477,7 +2477,7 @@
             }
         },
         "NIO": {
-            "major_unit": "\u0e01\u0e2d\u0e23\u0e4c\u0e42\u0e14\u0e1a\u0e32\u0e19\u0e34\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e27",
+            "major_unit": "กอร์โดบานิการากัว",
             "major_unit_symbol": "NIO",
             "major_unit_abbreviation": "NIO",
             "minor_unit": "Centavos",
@@ -2486,7 +2486,7 @@
             "decimals": 2,
             "extra": {
                 "major_unit": {
-                    "0-1": "C\u00f3rdoba Oro"
+                    "0-1": "Córdoba Oro"
                 },
                 "minor_unit": {
                     "0-1": "Centavo"
@@ -2502,19 +2502,19 @@
             }
         },
         "NOK": {
-            "major_unit": "\u0e42\u0e04\u0e23\u0e19\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e27\u0e22\u0e4c",
+            "major_unit": "โครนนอร์เวย์",
             "major_unit_symbol": "NOK",
             "major_unit_abbreviation": "NOK",
-            "minor_unit": "\u00f8re",
+            "minor_unit": "øre",
             "minor_unit_symbol": "mns_NOK",
-            "minor_unit_abbreviation": "\u00f8re",
+            "minor_unit_abbreviation": "øre",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Krone"
                 },
                 "minor_unit": {
-                    "0-1": "\u00f8re"
+                    "0-1": "øre"
                 }
             },
             "cash": {
@@ -2527,7 +2527,7 @@
             }
         },
         "NPR": {
-            "major_unit": "\u0e23\u0e39\u0e1b\u0e35\u0e40\u0e19\u0e1b\u0e32\u0e25",
+            "major_unit": "รูปีเนปาล",
             "major_unit_symbol": "NPR",
             "major_unit_abbreviation": "NPR",
             "minor_unit": "Paise",
@@ -2552,7 +2552,7 @@
             }
         },
         "NZD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e19\u0e34\u0e27\u0e0b\u0e35\u0e41\u0e25\u0e19\u0e14\u0e4c",
+            "major_unit": "ดอลลาร์นิวซีแลนด์",
             "major_unit_symbol": "NZ$",
             "major_unit_abbreviation": "NZD",
             "minor_unit": "Cents",
@@ -2577,7 +2577,7 @@
             }
         },
         "OMR": {
-            "major_unit": "\u0e40\u0e23\u0e35\u0e22\u0e25\u0e42\u0e2d\u0e21\u0e32\u0e19",
+            "major_unit": "เรียลโอมาน",
             "major_unit_symbol": "OMR",
             "major_unit_abbreviation": "OMR",
             "minor_unit": "Baisa",
@@ -2602,19 +2602,19 @@
             }
         },
         "PAB": {
-            "major_unit": "\u0e1a\u0e31\u0e25\u0e1a\u0e31\u0e27\u0e1b\u0e32\u0e19\u0e32\u0e21\u0e32",
+            "major_unit": "บัลบัวปานามา",
             "major_unit_symbol": "PAB",
             "major_unit_abbreviation": "PAB",
-            "minor_unit": "Cent\u00e9simos",
+            "minor_unit": "Centésimos",
             "minor_unit_symbol": "mns_PAB",
-            "minor_unit_abbreviation": "Cent\u00e9simo",
+            "minor_unit_abbreviation": "Centésimo",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Balboa"
                 },
                 "minor_unit": {
-                    "0-1": "Cent\u00e9simo"
+                    "0-1": "Centésimo"
                 }
             },
             "cash": {
@@ -2627,19 +2627,19 @@
             }
         },
         "PEN": {
-            "major_unit": "\u0e0b\u0e2d\u0e25\u0e40\u0e1b\u0e23\u0e39",
+            "major_unit": "ซอลเปรู",
             "major_unit_symbol": "PEN",
             "major_unit_abbreviation": "PEN",
-            "minor_unit": "C\u00e9ntimos",
+            "minor_unit": "Céntimos",
             "minor_unit_symbol": "mns_PEN",
-            "minor_unit_abbreviation": "C\u00e9ntimo",
+            "minor_unit_abbreviation": "Céntimo",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Sol"
                 },
                 "minor_unit": {
-                    "0-1": "C\u00e9ntimo"
+                    "0-1": "Céntimo"
                 }
             },
             "cash": {
@@ -2652,7 +2652,7 @@
             }
         },
         "PGK": {
-            "major_unit": "\u0e01\u0e35\u0e19\u0e32\u0e1b\u0e32\u0e1b\u0e31\u0e27\u0e19\u0e34\u0e27\u0e01\u0e34\u0e19\u0e35",
+            "major_unit": "กีนาปาปัวนิวกินี",
             "major_unit_symbol": "PGK",
             "major_unit_abbreviation": "PGK",
             "minor_unit": "Toea",
@@ -2677,7 +2677,7 @@
             }
         },
         "PHP": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e1f\u0e34\u0e25\u0e34\u0e1b\u0e1b\u0e34\u0e19\u0e2a\u0e4c",
+            "major_unit": "เปโซฟิลิปปินส์",
             "major_unit_symbol": "PHP",
             "major_unit_abbreviation": "PHP",
             "minor_unit": "Sentimo",
@@ -2702,7 +2702,7 @@
             }
         },
         "PKR": {
-            "major_unit": "\u0e23\u0e39\u0e1b\u0e35\u0e1b\u0e32\u0e01\u0e35\u0e2a\u0e16\u0e32\u0e19",
+            "major_unit": "รูปีปากีสถาน",
             "major_unit_symbol": "PKR",
             "major_unit_abbreviation": "PKR",
             "minor_unit": "Paise",
@@ -2727,7 +2727,7 @@
             }
         },
         "PLN": {
-            "major_unit": "\u0e0b\u0e25\u0e2d\u0e15\u0e35\u0e42\u0e1b\u0e41\u0e25\u0e19\u0e14\u0e4c",
+            "major_unit": "ซลอตีโปแลนด์",
             "major_unit_symbol": "PLN",
             "major_unit_abbreviation": "PLN",
             "minor_unit": "Groszy",
@@ -2752,7 +2752,7 @@
             }
         },
         "PYG": {
-            "major_unit": "\u0e01\u0e27\u0e32\u0e23\u0e32\u0e19\u0e35\u0e1b\u0e32\u0e23\u0e32\u0e01\u0e27\u0e31\u0e22",
+            "major_unit": "กวารานีปารากวัย",
             "major_unit_symbol": "PYG",
             "major_unit_abbreviation": "PYG",
             "minor_unit": "Centimos",
@@ -2761,7 +2761,7 @@
             "decimals": 0,
             "extra": {
                 "major_unit": {
-                    "0-1": "Guaran\u00ed"
+                    "0-1": "Guaraní"
                 },
                 "minor_unit": {
                     "0-1": "Centimo"
@@ -2777,7 +2777,7 @@
             }
         },
         "QAR": {
-            "major_unit": "\u0e40\u0e23\u0e35\u0e22\u0e25\u0e01\u0e32\u0e15\u0e32\u0e23\u0e4c",
+            "major_unit": "เรียลกาตาร์",
             "major_unit_symbol": "QAR",
             "major_unit_abbreviation": "QAR",
             "minor_unit": "Dirhams",
@@ -2802,7 +2802,7 @@
             }
         },
         "RON": {
-            "major_unit": "\u0e25\u0e34\u0e27\u0e42\u0e23\u0e21\u0e32\u0e40\u0e19\u0e35\u0e22",
+            "major_unit": "ลิวโรมาเนีย",
             "major_unit_symbol": "RON",
             "major_unit_abbreviation": "RON",
             "minor_unit": "Bani",
@@ -2827,7 +2827,7 @@
             }
         },
         "RSD": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e40\u0e1a\u0e35\u0e22",
+            "major_unit": "ดีนาร์เซอร์เบีย",
             "major_unit_symbol": "RSD",
             "major_unit_abbreviation": "RSD",
             "minor_unit": "Para",
@@ -2852,7 +2852,7 @@
             }
         },
         "RUB": {
-            "major_unit": "\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22",
+            "major_unit": "รูเบิลรัสเซีย",
             "major_unit_symbol": "RUB",
             "major_unit_abbreviation": "RUB",
             "minor_unit": "Kopeks",
@@ -2877,7 +2877,7 @@
             }
         },
         "RWF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e23\u0e27\u0e31\u0e19\u0e14\u0e32",
+            "major_unit": "ฟรังก์รวันดา",
             "major_unit_symbol": "RWF",
             "major_unit_abbreviation": "RWF",
             "minor_unit": "Centimes",
@@ -2902,7 +2902,7 @@
             }
         },
         "SAR": {
-            "major_unit": "\u0e23\u0e34\u0e22\u0e31\u0e25\u0e0b\u0e32\u0e2d\u0e38\u0e14\u0e35\u0e2d\u0e32\u0e23\u0e30\u0e40\u0e1a\u0e35\u0e22",
+            "major_unit": "ริยัลซาอุดีอาระเบีย",
             "major_unit_symbol": "SAR",
             "major_unit_abbreviation": "SAR",
             "minor_unit": "Halalahs",
@@ -2927,7 +2927,7 @@
             }
         },
         "SBD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e42\u0e0b\u0e42\u0e25\u0e21\u0e2d\u0e19",
+            "major_unit": "ดอลลาร์หมู่เกาะโซโลมอน",
             "major_unit_symbol": "SBD",
             "major_unit_abbreviation": "SBD",
             "minor_unit": "Cents",
@@ -2952,7 +2952,7 @@
             }
         },
         "SCR": {
-            "major_unit": "\u0e23\u0e39\u0e1b\u0e35\u0e40\u0e0b\u0e40\u0e0a\u0e25\u0e2a\u0e4c",
+            "major_unit": "รูปีเซเชลส์",
             "major_unit_symbol": "SCR",
             "major_unit_abbreviation": "SCR",
             "minor_unit": "Cents",
@@ -2977,7 +2977,7 @@
             }
         },
         "SDG": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e0b\u0e39\u0e14\u0e32\u0e19",
+            "major_unit": "ปอนด์ซูดาน",
             "major_unit_symbol": "SDG",
             "major_unit_abbreviation": "SDG",
             "minor_unit": "Qirsh",
@@ -3002,19 +3002,19 @@
             }
         },
         "SEK": {
-            "major_unit": "\u0e42\u0e04\u0e23\u0e19\u0e32\u0e2a\u0e27\u0e35\u0e40\u0e14\u0e19",
+            "major_unit": "โครนาสวีเดน",
             "major_unit_symbol": "SEK",
             "major_unit_abbreviation": "SEK",
-            "minor_unit": "\u00d6re",
+            "minor_unit": "Öre",
             "minor_unit_symbol": "mns_SEK",
-            "minor_unit_abbreviation": "\u00d6re",
+            "minor_unit_abbreviation": "Öre",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Krona"
                 },
                 "minor_unit": {
-                    "0-1": "\u00d6re"
+                    "0-1": "Öre"
                 }
             },
             "cash": {
@@ -3027,7 +3027,7 @@
             }
         },
         "SGD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2a\u0e34\u0e07\u0e04\u0e42\u0e1b\u0e23\u0e4c",
+            "major_unit": "ดอลลาร์สิงคโปร์",
             "major_unit_symbol": "SGD",
             "major_unit_abbreviation": "SGD",
             "minor_unit": "Cents",
@@ -3052,7 +3052,7 @@
             }
         },
         "SHP": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e40\u0e2e\u0e40\u0e25\u0e19\u0e32",
+            "major_unit": "ปอนด์เซนต์เฮเลนา",
             "major_unit_symbol": "SHP",
             "major_unit_abbreviation": "SHP",
             "minor_unit": "Pence",
@@ -3077,7 +3077,7 @@
             }
         },
         "SLL": {
-            "major_unit": "\u0e25\u0e35\u0e42\u0e2d\u0e19\u0e40\u0e0b\u0e35\u0e22\u0e23\u0e4c\u0e23\u0e32\u0e25\u0e35\u0e42\u0e2d\u0e19 (1964\u20142022)",
+            "major_unit": "ลีโอนเซียร์ราลีโอน (1964—2022)",
             "major_unit_symbol": "SLL",
             "major_unit_abbreviation": "SLL",
             "minor_unit": "Cents",
@@ -3102,7 +3102,7 @@
             }
         },
         "SOS": {
-            "major_unit": "\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e42\u0e0b\u0e21\u0e32\u0e40\u0e25\u0e35\u0e22",
+            "major_unit": "ชิลลิงโซมาเลีย",
             "major_unit_symbol": "SOS",
             "major_unit_abbreviation": "SOS",
             "minor_unit": "Senti",
@@ -3127,7 +3127,7 @@
             }
         },
         "SRD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e0b\u0e39\u0e23\u0e34\u0e19\u0e32\u0e40\u0e21",
+            "major_unit": "ดอลลาร์ซูรินาเม",
             "major_unit_symbol": "SRD",
             "major_unit_abbreviation": "SRD",
             "minor_unit": "Cents",
@@ -3152,7 +3152,7 @@
             }
         },
         "SSP": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e0b\u0e39\u0e14\u0e32\u0e19\u0e43\u0e15\u0e49",
+            "major_unit": "ปอนด์ซูดานใต้",
             "major_unit_symbol": "SSP",
             "major_unit_abbreviation": "SSP",
             "minor_unit": "Qirsh",
@@ -3177,7 +3177,7 @@
             }
         },
         "STN": {
-            "major_unit": "\u0e14\u0e2d\u0e1a\u0e23\u0e32\u0e40\u0e0b\u0e32\u0e15\u0e39\u0e40\u0e21\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e34\u0e19\u0e0b\u0e34\u0e1b\u0e35",
+            "major_unit": "ดอบราเซาตูเมและปรินซิปี",
             "major_unit_symbol": "STN",
             "major_unit_abbreviation": "STN",
             "minor_unit": "Centimos",
@@ -3202,7 +3202,7 @@
             }
         },
         "SVC": {
-            "major_unit": "\u0e42\u0e04\u0e25\u0e2d\u0e19\u0e40\u0e2d\u0e25\u0e0b\u0e31\u0e25\u0e27\u0e32\u0e14\u0e2d\u0e23\u0e4c",
+            "major_unit": "โคลอนเอลซัลวาดอร์",
             "major_unit_symbol": "SVC",
             "major_unit_abbreviation": "SVC",
             "minor_unit": "Centavos",
@@ -3211,7 +3211,7 @@
             "decimals": 2,
             "extra": {
                 "major_unit": {
-                    "0-1": "Col\u00f3n"
+                    "0-1": "Colón"
                 },
                 "minor_unit": {
                     "0-1": "Centavo"
@@ -3227,7 +3227,7 @@
             }
         },
         "SYP": {
-            "major_unit": "\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e0b\u0e35\u0e40\u0e23\u0e35\u0e22",
+            "major_unit": "ปอนด์ซีเรีย",
             "major_unit_symbol": "SYP",
             "major_unit_abbreviation": "SYP",
             "minor_unit": "Qirsh",
@@ -3252,7 +3252,7 @@
             }
         },
         "SZL": {
-            "major_unit": "\u0e25\u0e34\u0e25\u0e31\u0e19\u0e40\u0e08\u0e19\u0e35\u0e2a\u0e27\u0e32\u0e0b\u0e34",
+            "major_unit": "ลิลันเจนีสวาซิ",
             "major_unit_symbol": "SZL",
             "major_unit_abbreviation": "SZL",
             "minor_unit": "Cents",
@@ -3277,20 +3277,16 @@
             }
         },
         "THB": {
-            "major_unit": "\u0e1a\u0e32\u0e17",
-            "major_unit_symbol": "\u0e3f",
-            "major_unit_abbreviation": "THB",
-            "minor_unit": "Satang",
+            "major_unit": "บาท",
+            "major_unit_symbol": "฿",
+            "major_unit_abbreviation": "บ.",
+            "minor_unit": "สตางค์",
             "minor_unit_symbol": "mns_THB",
-            "minor_unit_abbreviation": "Satang",
+            "minor_unit_abbreviation": "สต.",
             "decimals": 2,
             "extra": {
-                "major_unit": {
-                    "0-1": "Baht"
-                },
-                "minor_unit": {
-                    "0-1": "Satang"
-                }
+                "major_unit": {},
+                "minor_unit": {}
             },
             "cash": {
                 "fraction_digits": 2,
@@ -3302,7 +3298,7 @@
             }
         },
         "TJS": {
-            "major_unit": "\u0e42\u0e0b\u0e42\u0e21\u0e19\u0e34\u0e17\u0e32\u0e08\u0e34\u0e01\u0e34\u0e2a\u0e16\u0e32\u0e19",
+            "major_unit": "โซโมนิทาจิกิสถาน",
             "major_unit_symbol": "TJS",
             "major_unit_abbreviation": "TJS",
             "minor_unit": "Diram",
@@ -3327,7 +3323,7 @@
             }
         },
         "TMT": {
-            "major_unit": "\u0e21\u0e32\u0e19\u0e31\u0e15\u0e40\u0e15\u0e34\u0e23\u0e4c\u0e01\u0e40\u0e21\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19",
+            "major_unit": "มานัตเติร์กเมนิสถาน",
             "major_unit_symbol": "TMT",
             "major_unit_abbreviation": "TMT",
             "minor_unit": "Tenge",
@@ -3352,7 +3348,7 @@
             }
         },
         "TND": {
-            "major_unit": "\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e15\u0e39\u0e19\u0e34\u0e40\u0e0b\u0e35\u0e22",
+            "major_unit": "ดีนาร์ตูนิเซีย",
             "major_unit_symbol": "TND",
             "major_unit_abbreviation": "TND",
             "minor_unit": "Millime",
@@ -3377,7 +3373,7 @@
             }
         },
         "TOP": {
-            "major_unit": "\u0e1e\u0e32\u0e41\u0e2d\u0e07\u0e01\u0e32\u0e15\u0e2d\u0e07\u0e01\u0e32",
+            "major_unit": "พาแองกาตองกา",
             "major_unit_symbol": "TOP",
             "major_unit_abbreviation": "TOP",
             "minor_unit": "Seniti",
@@ -3402,19 +3398,19 @@
             }
         },
         "TRY": {
-            "major_unit": "\u0e25\u0e35\u0e23\u0e32\u0e15\u0e38\u0e23\u0e01\u0e35",
+            "major_unit": "ลีราตุรกี",
             "major_unit_symbol": "TRY",
             "major_unit_abbreviation": "TRY",
-            "minor_unit": "Kuru\u015f",
+            "minor_unit": "Kuruş",
             "minor_unit_symbol": "mns_TRY",
-            "minor_unit_abbreviation": "Kuru\u015f",
+            "minor_unit_abbreviation": "Kuruş",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Lira"
                 },
                 "minor_unit": {
-                    "0-1": "Kuru\u015f"
+                    "0-1": "Kuruş"
                 }
             },
             "cash": {
@@ -3427,7 +3423,7 @@
             }
         },
         "TTD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e15\u0e23\u0e34\u0e19\u0e34\u0e41\u0e14\u0e14\u0e41\u0e25\u0e30\u0e42\u0e15\u0e40\u0e1a\u0e42\u0e01",
+            "major_unit": "ดอลลาร์ตรินิแดดและโตเบโก",
             "major_unit_symbol": "TTD",
             "major_unit_abbreviation": "TTD",
             "minor_unit": "Cents",
@@ -3452,7 +3448,7 @@
             }
         },
         "TWD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e44\u0e15\u0e49\u0e2b\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48",
+            "major_unit": "ดอลลาร์ไต้หวันใหม่",
             "major_unit_symbol": "NT$",
             "major_unit_abbreviation": "TWD",
             "minor_unit": "Cents",
@@ -3477,7 +3473,7 @@
             }
         },
         "TZS": {
-            "major_unit": "\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e41\u0e17\u0e19\u0e0b\u0e32\u0e40\u0e19\u0e35\u0e22",
+            "major_unit": "ชิลลิงแทนซาเนีย",
             "major_unit_symbol": "TZS",
             "major_unit_abbreviation": "TZS",
             "minor_unit": "Senti",
@@ -3502,7 +3498,7 @@
             }
         },
         "UAH": {
-            "major_unit": "\u0e2e\u0e23\u0e35\u0e1f\u0e40\u0e19\u0e35\u0e22\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19",
+            "major_unit": "ฮรีฟเนียยูเครน",
             "major_unit_symbol": "UAH",
             "major_unit_abbreviation": "UAH",
             "minor_unit": "kopiyky",
@@ -3527,7 +3523,7 @@
             }
         },
         "UGX": {
-            "major_unit": "\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e22\u0e39\u0e01\u0e31\u0e19\u0e14\u0e32",
+            "major_unit": "ชิลลิงยูกันดา",
             "major_unit_symbol": "UGX",
             "major_unit_abbreviation": "UGX",
             "minor_unit": "Cents",
@@ -3552,7 +3548,7 @@
             }
         },
         "USD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2a\u0e2b\u0e23\u0e31\u0e10",
+            "major_unit": "ดอลลาร์สหรัฐ",
             "major_unit_symbol": "US$",
             "major_unit_abbreviation": "USD",
             "minor_unit": "Cents",
@@ -3577,19 +3573,19 @@
             }
         },
         "UYU": {
-            "major_unit": "\u0e40\u0e1b\u0e42\u0e0b\u0e2d\u0e38\u0e23\u0e38\u0e01\u0e27\u0e31\u0e22",
+            "major_unit": "เปโซอุรุกวัย",
             "major_unit_symbol": "UYU",
             "major_unit_abbreviation": "UYU",
-            "minor_unit": "Cent\u00e9simos",
+            "minor_unit": "Centésimos",
             "minor_unit_symbol": "mns_UYU",
-            "minor_unit_abbreviation": "Cent\u00e9simo",
+            "minor_unit_abbreviation": "Centésimo",
             "decimals": 2,
             "extra": {
                 "major_unit": {
                     "0-1": "Peso"
                 },
                 "minor_unit": {
-                    "0-1": "Cent\u00e9simo"
+                    "0-1": "Centésimo"
                 }
             },
             "cash": {
@@ -3602,7 +3598,7 @@
             }
         },
         "UZS": {
-            "major_unit": "\u0e0b\u0e2d\u0e21\u0e2d\u0e38\u0e0b\u0e40\u0e1a\u0e01\u0e34\u0e2a\u0e16\u0e32\u0e19",
+            "major_unit": "ซอมอุซเบกิสถาน",
             "major_unit_symbol": "UZS",
             "major_unit_abbreviation": "UZS",
             "minor_unit": "Tiyin",
@@ -3627,19 +3623,19 @@
             }
         },
         "VED": {
-            "major_unit": "Bol\u00edvar Soberano",
+            "major_unit": "Bolívar Soberano",
             "major_unit_symbol": "VED",
             "major_unit_abbreviation": "VED",
-            "minor_unit": "C\u00e9ntimos",
+            "minor_unit": "Céntimos",
             "minor_unit_symbol": "mns_VED",
-            "minor_unit_abbreviation": "C\u00e9ntimo",
+            "minor_unit_abbreviation": "Céntimo",
             "decimals": 2,
             "extra": {
                 "major_unit": {
-                    "0-1": "Bol\u00edvar Digital"
+                    "0-1": "Bolívar Digital"
                 },
                 "minor_unit": {
-                    "0-1": "C\u00e9ntimo"
+                    "0-1": "Céntimo"
                 }
             },
             "cash": {
@@ -3652,7 +3648,7 @@
             }
         },
         "VES": {
-            "major_unit": "\u0e42\u0e1a\u0e25\u0e35\u0e27\u0e32\u0e23\u0e4c\u0e40\u0e27\u0e40\u0e19\u0e0b\u0e38\u0e40\u0e2d\u0e25\u0e32",
+            "major_unit": "โบลีวาร์เวเนซุเอลา",
             "major_unit_symbol": "VES",
             "major_unit_abbreviation": "VES",
             "minor_unit": "Centimos",
@@ -3661,7 +3657,7 @@
             "decimals": 2,
             "extra": {
                 "major_unit": {
-                    "0-1": "Bol\u00edvar"
+                    "0-1": "Bolívar"
                 },
                 "minor_unit": {
                     "0-1": "Centimo"
@@ -3677,19 +3673,19 @@
             }
         },
         "VND": {
-            "major_unit": "\u0e14\u0e2d\u0e07\u0e40\u0e27\u0e35\u0e22\u0e14\u0e19\u0e32\u0e21",
-            "major_unit_symbol": "\u20ab",
+            "major_unit": "ดองเวียดนาม",
+            "major_unit_symbol": "₫",
             "major_unit_abbreviation": "VND",
-            "minor_unit": "H\u00e0o",
+            "minor_unit": "Hào",
             "minor_unit_symbol": "mns_VND",
-            "minor_unit_abbreviation": "H\u00e0o",
+            "minor_unit_abbreviation": "Hào",
             "decimals": 0,
             "extra": {
                 "major_unit": {
                     "0-1": "Dong"
                 },
                 "minor_unit": {
-                    "0-1": "H\u00e0o"
+                    "0-1": "Hào"
                 }
             },
             "cash": {
@@ -3702,7 +3698,7 @@
             }
         },
         "VUV": {
-            "major_unit": "\u0e27\u0e32\u0e15\u0e39\u0e27\u0e32\u0e19\u0e39\u0e2d\u0e32\u0e15\u0e39",
+            "major_unit": "วาตูวานูอาตู",
             "major_unit_symbol": "VUV",
             "major_unit_abbreviation": "VUV",
             "minor_unit": "",
@@ -3727,7 +3723,7 @@
             }
         },
         "WST": {
-            "major_unit": "\u0e17\u0e32\u0e25\u0e32\u0e0b\u0e32\u0e21\u0e31\u0e27",
+            "major_unit": "ทาลาซามัว",
             "major_unit_symbol": "WST",
             "major_unit_abbreviation": "WST",
             "minor_unit": "Sene",
@@ -3752,7 +3748,7 @@
             }
         },
         "XAF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e40\u0e0b\u0e1f\u0e32\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e23\u0e31\u0e10\u0e41\u0e2d\u0e1f\u0e23\u0e34\u0e01\u0e32\u0e01\u0e25\u0e32\u0e07",
+            "major_unit": "ฟรังก์เซฟาธนาคารรัฐแอฟริกากลาง",
             "major_unit_symbol": "FCFA",
             "major_unit_abbreviation": "XAF",
             "minor_unit": "Centimes",
@@ -3777,7 +3773,7 @@
             }
         },
         "XCD": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e41\u0e04\u0e23\u0e34\u0e1a\u0e40\u0e1a\u0e35\u0e22\u0e19\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01",
+            "major_unit": "ดอลลาร์แคริบเบียนตะวันออก",
             "major_unit_symbol": "EC$",
             "major_unit_abbreviation": "XCD",
             "minor_unit": "Cents",
@@ -3802,8 +3798,8 @@
             }
         },
         "XOF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e40\u0e0b\u0e1f\u0e32\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e01\u0e25\u0e32\u0e07\u0e23\u0e31\u0e10\u0e41\u0e2d\u0e1f\u0e23\u0e34\u0e01\u0e32\u0e15\u0e30\u0e27\u0e31\u0e19\u0e15\u0e01",
-            "major_unit_symbol": "F\u202fCFA",
+            "major_unit": "ฟรังก์เซฟาธนาคารกลางรัฐแอฟริกาตะวันตก",
+            "major_unit_symbol": "F CFA",
             "major_unit_abbreviation": "XOF",
             "minor_unit": "Centimes",
             "minor_unit_symbol": "mns_XOF",
@@ -3827,7 +3823,7 @@
             }
         },
         "XPF": {
-            "major_unit": "\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e0b\u0e35\u0e40\u0e2d\u0e1f\u0e1e\u0e35",
+            "major_unit": "ฟรังก์ซีเอฟพี",
             "major_unit_symbol": "CFPF",
             "major_unit_abbreviation": "XPF",
             "minor_unit": "Centimes",
@@ -3852,7 +3848,7 @@
             }
         },
         "YER": {
-            "major_unit": "\u0e40\u0e23\u0e35\u0e22\u0e25\u0e40\u0e22\u0e40\u0e21\u0e19",
+            "major_unit": "เรียลเยเมน",
             "major_unit_symbol": "YER",
             "major_unit_abbreviation": "YER",
             "minor_unit": "Fils",
@@ -3877,7 +3873,7 @@
             }
         },
         "ZAR": {
-            "major_unit": "\u0e41\u0e23\u0e19\u0e14\u0e4c\u0e41\u0e2d\u0e1f\u0e23\u0e34\u0e01\u0e32\u0e43\u0e15\u0e49",
+            "major_unit": "แรนด์แอฟริกาใต้",
             "major_unit_symbol": "ZAR",
             "major_unit_abbreviation": "ZAR",
             "minor_unit": "Cents",
@@ -3902,7 +3898,7 @@
             }
         },
         "ZMW": {
-            "major_unit": "\u0e04\u0e27\u0e32\u0e0a\u0e32\u0e41\u0e0b\u0e21\u0e40\u0e1a\u0e35\u0e22",
+            "major_unit": "ควาชาแซมเบีย",
             "major_unit_symbol": "ZMW",
             "major_unit_abbreviation": "ZMW",
             "minor_unit": "Ngwee",
@@ -3927,7 +3923,7 @@
             }
         },
         "ZWL": {
-            "major_unit": "\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e0b\u0e34\u0e21\u0e1a\u0e31\u0e1a\u0e40\u0e27 (2009)",
+            "major_unit": "ดอลลาร์ซิมบับเว (2009)",
             "major_unit_symbol": "ZWL",
             "major_unit_abbreviation": "ZWL",
             "minor_unit": "Cents",
@@ -3953,13 +3949,13 @@
         }
     },
     "language_rules": {
-        "conjunction": "and",
-        "whole": "only",
-        "negative": "negative",
-        "template_positive_whole": "{major_integer} {major_unit} {whole}",
-        "template_positive_decimal": "{major_integer} {major_unit} {conjunction} {minor_integer} {minor_unit}",
-        "template_negative_whole": "{negative} {major_integer} {major_unit} {whole}",
-        "template_negative_decimal": "{negative} {major_integer} {major_unit} {conjunction} {minor_integer} {minor_unit}",
+        "conjunction": "",
+        "whole": "ถ้วน",
+        "negative": "ลบ",
+        "template_positive_whole": "{major_integer}{major_unit}{whole}",
+        "template_positive_decimal": "{major_integer}{major_unit}{conjunction}{minor_integer}{minor_unit}",
+        "template_negative_whole": "{negative}{major_integer}{major_unit}{whole}",
+        "template_negative_decimal": "{negative}{major_integer}{major_unit}{conjunction}{minor_integer}{minor_unit}",
         "template_zero": "{zero}"
     }
 }
